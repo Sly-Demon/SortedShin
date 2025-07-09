@@ -1,5 +1,0 @@
-Name: C- Sonrd
-Link: https://www.shinseina.world/post/c-sonrd
-
-Description:
-no description

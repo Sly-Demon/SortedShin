@@ -1,5 +1,0 @@
-Name: D - Crawler
-Link: https://www.shinseina.world/post/d-crawler
-
-Description:
-no description

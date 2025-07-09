@@ -1,5 +1,0 @@
-Name: C - Mimica
-Link: https://www.shinseina.world/post/c-mimica
-
-Description:
-no description

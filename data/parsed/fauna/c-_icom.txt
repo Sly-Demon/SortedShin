@@ -1,5 +1,0 @@
-Name: C- Icom
-Link: https://www.shinseina.world/post/c-icom
-
-Description:
-no description
