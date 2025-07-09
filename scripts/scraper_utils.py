@@ -7,8 +7,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-
+from selenium.webdriver.common.by import By
+import time
 
 def chunk_links(links, preferred_chunks=50, fallback_max=75):
     total = len(links)
@@ -54,15 +54,23 @@ def scroll_to_bottom(driver, delay=1):
     sleep(delay)  # Give lazy-loaded tags a second to show up
 
 
-def extract_tags_from_page(driver, timeout=10):
+def extract_tags_from_page(driver):
     try:
-        # Wait for ANY anchor tag with the right class and path
-        WebDriverWait(driver, timeout).until(
-            EC.presence_of_element_located((By.XPATH, "//a[contains(@href, '/world-book/tags/')]"))
-        )
+        # Wait to ensure content is there (already confirmed it's loading)
+        time.sleep(1)
 
-        tag_elements = driver.find_elements(By.XPATH, "//a[contains(@href, '/world-book/tags/')]")
-        return [tag.get_attribute("href") for tag in tag_elements]
+        # Grab all anchor elements
+        anchor_elements = driver.find_elements(By.TAG_NAME, "a")
+
+        # Grab hrefs that match Shinseina tag structure
+        tag_links = [
+            a.get_attribute("href")
+            for a in anchor_elements
+            if a.get_attribute("href") and "/world-book/tags/flora-availability-" in a.get_attribute("href")
+        ]
+
+        print(f"🧷 Extracted tags: {tag_links}")
+        return tag_links
 
     except Exception as e:
         print(f"    💥 Tag extract error: {e}")
