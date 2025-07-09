@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SortedShin.iml" filepath="$PROJECT_DIR$/.idea/SortedShin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shinIo/.idea/shinIo.iml" filepath="$PROJECT_DIR$/../shinIo/.idea/shinIo.iml" />
     </modules>
   </component>
 </project>
