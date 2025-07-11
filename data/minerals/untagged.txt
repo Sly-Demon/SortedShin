@@ -1,0 +1,484 @@
+Bolker
+Use: The lime green viscous goo inside, when rubbed into skin, turns the applied area as hard as stone for 6 turns. However, this halves regeneration on the applied area while active and leaves the area dry with broken skin after the effect ends. The exterior shell is edible but tough, similar to rock candy or watermelon skin.
+Location: Mountains, Arid Lands, & Deserts (typically grows near rocks).
+Preparation: Crack open the buds (top buds can be twisted and pulled to open easily), remove gooey insides. Rub goo on skin where applicable. The exterior shell is edible.
+Cost: 1 silver per ball.
+Legality: N/A
+Link: https://www.shinseina.world/post/bolker
+________________
+Dyadra
+Use: Commonly used to dye things, as their liquids can be used for different color dyes, frequently by tailors. Dyadra can also be dried to have a sweet taste, turning it into candy. If eaten raw, the dye can cause diarrhea or headaches.
+Location: Wetlands & nearby rivers (grows under wet ground).
+Preparation: Mulched or juiced, then boil liquid remains for 2 minutes. May also be dried.
+Cost: 8 copper per berry.
+Legality: N/A
+Link: https://www.shinseina.world/post/dyadra
+________________
+Deadly nightshade
+Use: When prepared (berries left to stand in water for a week and the distillation drunk), it will put someone to sleep for 8-12 hours, during which they cannot be woken. There is a 50% chance it will kill them and a 50% chance it will drive them insane.
+Location: Forest
+Preparation: The berries must be left to stand in water for a week, and the distillation drunk (for full potency).
+Cost: 55 copper (raw), 50 silver (prepared).
+Legality: Preparing and selling nightshade is Illegal.
+Link: https://www.shinseina.world/post/deadly-nightshade
+________________
+Zur
+Use: When successfully brewed for six to seven hours, it will result in doubled perception for an hour. It is slightly addictive.
+Location: Underground
+Preparation: Brew for six to seven hours.
+Cost: 12 - 50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/__zur
+________________
+Falsifal
+Use: When its root is pulped, mixed with water, and used as a poultice, it is effective against fresh burns, aiding rapid healing. The root gel can also be thinned and drunk as a thick tea to counter the effects of blood loss.
+Location: Swamp
+Preparation: Takes less than an hour to prepare. The root can be pulped and mixed with water for a poultice, or the root gel thinned for a thick tea.
+Cost: 20 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/falsifal
+________________
+Agrimony
+Use: When its dried leaves are boiled in a pint of red wine for five minutes, left to stand for an hour, and then used in a compress on sprains and bruises, a successful application will cure sprains and bruises in half the normal time.
+Location: Temperate forest
+Preparation: Boil dried leaves in a pint of red wine for five minutes, then leave to stand for an hour. Use as a compress.
+Cost: 20-50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/agrimony
+________________
+Borage
+Use: The dried herb, when boiled in water and the infusion drunk, is used to cure minor fevers such as those caused by chills and influenza. It will relieve the fever in 2-3 hours.
+Location: Temperate forest
+Preparation: 4-5 days. The dried herb should be boiled in water, and the infusion drunk.
+Cost: 10 copper (raw), 50 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/borage
+________________
+Barberry
+Use: When prepared (ground up in cold water, left to stand, then quickly boiled and drunk), this mixture serves as a cure for liver disorders such as jaundice.
+Location: Temperate forest, plains
+Preparation: 3 hours. Barberries should be ground up in cold water, left to stand in cold water, and then boiled quickly. This mixture should be drunk.
+Cost: 15-40 copper (depends on whether it's raw or prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/barberry
+________________
+Balm
+Use: The herb should be boiled and given to women suffering menstrual pains.
+Location: Sub-tropical forest
+Preparation: 1 hour boiling (the herb).
+Cost: 10 copper (raw), 15 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/_balm
+________________
+Pollen Whisper
+Use: This plant instantly dies if removed from the ground. It constantly creates and releases orange pollen when something moves near its roots. This pollen can cause whoever inhales it to hear things.
+Location: Forest
+Preparation: None.
+Cost: None.
+Legality: N/A
+Link: https://www.shinseina.world/post/pollen-whisper
+________________
+Nitebell Mushroom
+Use: When eaten, this mushroom provides temporary night vision for 10 turns.
+Location: Dark Places (found growing in dark and moist places, requires complete darkness, not easily grown).
+Preparation: Grinding.
+Cost: 20 Copper Per Mushroom.
+Legality: N/A
+Link: https://www.shinseina.world/post/nitebell-mushroom
+________________
+Angelica
+Use: Angelica's root, when prepared, should be drunk to relieve coughs. It merely reduces the amount of coughing and does not cure any disease causing a cough.
+Location: Mountains
+Preparation: The root should be boiled in water for an hour.
+Cost: 50 copper (raw), 75 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/angelica
+________________
+Tamariske
+Use: A standard medicine that will cleanse wounds, removing all minor infections.
+Location: Temperate Forest
+Preparation: 2 weeks, or grinding and sitting.
+Cost: 1 silver (raw), 4 silver (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/tamariske
+________________
+Willow-Herb
+Use: The smoke of this herb will keep away snakes (or irritate Snake-people). One dose burns for about five turns.
+Location: Temperate forest
+Preparation: None.
+Cost: 50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/willow-herb
+________________
+Zulsendra
+Use: When this mushroom is eaten, it doubles a person's overall speed for 10 minutes. At the end of that time, the person will be exhausted.
+Location: Underground - Rare region(this was written in it ) (never found outside its region; uncommon overall, common within its region).
+Preparation: None.
+Cost: 5 silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/zulsendra
+________________
+Watire
+Use: This plant has the ability to absorb moisture from the area over time and store fresh water in its pouch-like root. This fresh water can then be used by cutting the underneath off.
+Location: Desert (or other dry and water-lacking places).
+Preparation: None.
+Cost: 3 Silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/watire
+________________
+Oxshoom
+Use: This mushroom-like plant creates breathable air in its pocket bubble on its head. Divers use this plant when found underwater to breathe in the air for a short duration.
+Location: Forest and underwater.
+Preparation: None.
+Cost: Not sold.
+Legality: N/A
+Link: https://www.shinseina.world/post/oxshoom
+________________
+Pogo
+Use: If boiled and the water is consumed, it can cure basic forms of poisons.
+Location: Forest
+Preparation: Boiling (drink the water).
+Cost: 2 Silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/_pogo
+________________
+Weeping Willow
+Use: Once this flower is removed from where it originally grew, within ten seconds it turns into a gigantic purple weeping willow tree wherever it is thrown.
+Location: Forests and Deserts
+Preparation: None.
+Cost: Unsold.
+Legality: N/A
+Link: https://www.shinseina.world/post/weeping-willow
+________________
+Flyhigh
+Use: Once boiled and consumed, it grants the user temporary wings that allow them to fly. This effect lasts for approximately 20 turns.
+Location: Forest
+Preparation: Boiling (and drunk).
+Cost: 25 Copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/flyhigh
+________________
+Blood Lotus
+Use: Similar to a Venus flytrap, this plant opens up and swallows nearby creatures to drain their blood for sustenance. It cannot be removed from the ground once grown, or it will instantly die.
+Location: Forest and Corrupted Land.
+Preparation: None.
+Cost: None.
+Legality: N/A
+Link: https://www.shinseina.world/post/blood-lotus
+________________
+Devil's Berry
+Use: A poisonous berry that, once consumed, can cause high fever and blood vomiting.
+Location: Forest (grows on a very short tree that lacks leaves and has dying purple flowers).
+Preparation: None.
+Cost: Not sold.
+Legality: N/A
+Link: https://www.shinseina.world/post/devil-s-berry
+________________
+Joywhisper
+Use: The pollen this flower produces, when inhaled, can cause the user to feel a false sense of happiness and joy, often relaxing their mind and body while dulling all senses.
+Location: Forest
+Preparation: None.
+Cost: 15 Copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/joywhisper
+________________
+Black Stinger
+Use: This plant has a sharp tip, and if it cuts a person, even slightly, the person will get a high fever. This plant dies if it is removed from the ground.
+Location: Destroyed Swamp
+Preparation: None.
+Cost: Not for sale.
+Legality: N/A
+Link: https://www.shinseina.world/post/black-stinger
+________________
+False Bliss
+Use: The flowers of this vine-like plant release pollen that makes anyone who inhales it see illusions of what they desire most. The plant uses this to attract prey and slowly feed off its life force and mana. However, it will instantly die if cut or removed from where it grows.
+Location: Forest and Mountain
+Preparation: None.
+Cost: N/A
+Legality: N/A
+Link: https://www.shinseina.world/post/false-bliss
+________________
+Common
+NEKO EARS
+Use: Produces music when wind passes over its leaves. When properly consumed (dried), it gives the consumer 2x sight, smell, and more intense emotions for an entire day. If consumed raw, the effects are completely reversed.
+Location: Oceans, Rivers, Lakes. Grows over coastal rocks or rocks within caves found underwater, and cannot survive completely submerged.
+Preparation: Dry the flowers until left without moisture.
+Cost: 2 copper a flower; 10 Copper for an entire plant.
+Legality: N/A
+Link: https://www.shinseina.world/post/neko-ears
+________________
+KELP BELLS
+Use: An essential for underwater exploration, it produces an excess amount of oxygen within its "bell." When consuming pieces, it allows the user to hold their breath for 5x as long as usual.
+Location: Oceans, Kelp Forests (grows from the seabed, climbing with long stems).
+Preparation: Cut up and boil.
+Cost: Illegal
+Legality: Illegal (harvesting and selling are deemed a necessity for underwater exploration and were nearly wiped out from over-farming).
+Link: https://www.shinseina.world/post/kelp-bells
+________________
+CACTI COLONY
+Use: These cacti plants hold large storages of water (a colony is actually one plant connected by roots).
+Location: Desert (mostly found near Oasis's, primarily void from dunes).
+Preparation: None.
+Cost: N/A
+Legality: N/A
+Link: https://www.shinseina.world/post/copy-of-c-cacti-colony
+________________
+SNAPPER
+Use: Large carnivorous flora that consume animals and sometimes people. Inside their mouths is a pool of acid, able to quickly dissolve what they eat in a matter of minutes. Can be used similar to bean sprouts, and the head is similar to artichokes.
+Location: Majika Forest (commonly grow in patches).
+Preparation: Can be used similar to bean sprouts. Head is similar to artichokes.
+Cost: 30 copper per pound.
+Legality: N/A
+Link: https://www.shinseina.world/post/c-snapper
+________________
+FALSE-ART
+Use: When its core is eaten, it numbs the consumer's nerves entirely for up to 3 turns, making them unable to feel anything along the lines of touch or pain, magic or physical. Behaves like ivy, growing over surrounding vegetables to steal sunlight.
+Location: Arid Lands (grows in large patches).
+Preparation: Take the leaves off. Cut out the core. Can be eaten raw or prepared like any normal vegetable.
+Cost: 15 copper per head.
+Legality: N/A
+Link: https://www.shinseina.world/post/c-false-art
+________________
+
+Bolker
+Use: The lime green viscous goo inside, when rubbed into skin, turns the applied area as hard as stone for 6 turns. However, this halves regeneration on the applied area while active and leaves the area dry with broken skin after the effect ends. The exterior shell is edible but tough, similar to rock candy or watermelon skin.
+Location: Mountains, Arid Lands, & Deserts (typically grows near rocks).
+Preparation: Crack open the buds (top buds can be twisted and pulled to open easily), remove gooey insides. Rub goo on skin where applicable. The exterior shell is edible.
+Cost: 1 silver per ball.
+Legality: N/A
+Link: https://www.shinseina.world/post/bolker
+________________
+Dyadra
+Use: Commonly used to dye things, as their liquids can be used for different color dyes, frequently by tailors. Dyadra can also be dried to have a sweet taste, turning it into candy. If eaten raw, the dye can cause diarrhea or headaches.
+Location: Wetlands & nearby rivers (grows under wet ground).
+Preparation: Mulched or juiced, then boil liquid remains for 2 minutes. May also be dried.
+Cost: 8 copper per berry.
+Legality: N/A
+Link: https://www.shinseina.world/post/dyadra
+________________
+Deadly nightshade
+Use: When prepared (berries left to stand in water for a week and the distillation drunk), it will put someone to sleep for 8-12 hours, during which they cannot be woken. There is a 50% chance it will kill them and a 50% chance it will drive them insane.
+Location: Forest
+Preparation: The berries must be left to stand in water for a week, and the distillation drunk (for full potency).
+Cost: 55 copper (raw), 50 silver (prepared).
+Legality: Preparing and selling nightshade is Illegal.
+Link: https://www.shinseina.world/post/deadly-nightshade
+________________
+Zur
+Use: When successfully brewed for six to seven hours, it will result in doubled perception for an hour. It is slightly addictive.
+Location: Underground
+Preparation: Brew for six to seven hours.
+Cost: 12 - 50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/__zur
+________________
+Falsifal
+Use: When its root is pulped, mixed with water, and used as a poultice, it is effective against fresh burns, aiding rapid healing. The root gel can also be thinned and drunk as a thick tea to counter the effects of blood loss.
+Location: Swamp
+Preparation: Takes less than an hour to prepare. The root can be pulped and mixed with water for a poultice, or the root gel thinned for a thick tea.
+Cost: 20 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/falsifal
+________________
+Agrimony
+Use: When its dried leaves are boiled in a pint of red wine for five minutes, left to stand for an hour, and then used in a compress on sprains and bruises, a successful application will cure sprains and bruises in half the normal time.
+Location: Temperate forest
+Preparation: Boil dried leaves in a pint of red wine for five minutes, then leave to stand for an hour. Use as a compress.
+Cost: 20-50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/agrimony
+________________
+Borage
+Use: The dried herb, when boiled in water and the infusion drunk, is used to cure minor fevers such as those caused by chills and influenza. It will relieve the fever in 2-3 hours.
+Location: Temperate forest
+Preparation: 4-5 days. The dried herb should be boiled in water, and the infusion drunk.
+Cost: 10 copper (raw), 50 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/borage
+________________
+Barberry
+Use: When prepared (ground up in cold water, left to stand, then quickly boiled and drunk), this mixture serves as a cure for liver disorders such as jaundice.
+Location: Temperate forest, plains
+Preparation: 3 hours. Barberries should be ground up in cold water, left to stand in cold water, and then boiled quickly. This mixture should be drunk.
+Cost: 15-40 copper (depends on whether it's raw or prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/barberry
+________________
+Balm
+Use: The herb should be boiled and given to women suffering menstrual pains.
+Location: Sub-tropical forest
+Preparation: 1 hour boiling (the herb).
+Cost: 10 copper (raw), 15 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/_balm
+________________
+Pollen Whisper
+Use: This plant instantly dies if removed from the ground. It constantly creates and releases orange pollen when something moves near its roots. This pollen can cause whoever inhales it to hear things.
+Location: Forest
+Preparation: None.
+Cost: None.
+Legality: N/A
+Link: https://www.shinseina.world/post/pollen-whisper
+________________
+Nitebell Mushroom
+Use: When eaten, this mushroom provides temporary night vision for 10 turns.
+Location: Dark Places (found growing in dark and moist places, requires complete darkness, not easily grown).
+Preparation: Grinding.
+Cost: 20 Copper Per Mushroom.
+Legality: N/A
+Link: https://www.shinseina.world/post/nitebell-mushroom
+________________
+Angelica
+Use: Angelica's root, when prepared, should be drunk to relieve coughs. It merely reduces the amount of coughing and does not cure any disease causing a cough.
+Location: Mountains
+Preparation: The root should be boiled in water for an hour.
+Cost: 50 copper (raw), 75 copper (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/angelica
+________________
+Tamariske
+Use: A standard medicine that will cleanse wounds, removing all minor infections.
+Location: Temperate Forest
+Preparation: 2 weeks, or grinding and sitting.
+Cost: 1 silver (raw), 4 silver (prepared).
+Legality: N/A
+Link: https://www.shinseina.world/post/tamariske
+________________
+Willow-Herb
+Use: The smoke of this herb will keep away snakes (or irritate Snake-people). One dose burns for about five turns.
+Location: Temperate forest
+Preparation: None.
+Cost: 50 copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/willow-herb
+________________
+Zulsendra
+Use: When this mushroom is eaten, it doubles a person's overall speed for 10 minutes. At the end of that time, the person will be exhausted.
+Location: Underground - Rare region(this was written in it ) (never found outside its region; uncommon overall, common within its region).
+Preparation: None.
+Cost: 5 silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/zulsendra
+________________
+Watire
+Use: This plant has the ability to absorb moisture from the area over time and store fresh water in its pouch-like root. This fresh water can then be used by cutting the underneath off.
+Location: Desert (or other dry and water-lacking places).
+Preparation: None.
+Cost: 3 Silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/watire
+________________
+Oxshoom
+Use: This mushroom-like plant creates breathable air in its pocket bubble on its head. Divers use this plant when found underwater to breathe in the air for a short duration.
+Location: Forest and underwater.
+Preparation: None.
+Cost: Not sold.
+Legality: N/A
+Link: https://www.shinseina.world/post/oxshoom
+________________
+Pogo
+Use: If boiled and the water is consumed, it can cure basic forms of poisons.
+Location: Forest
+Preparation: Boiling (drink the water).
+Cost: 2 Silver.
+Legality: N/A
+Link: https://www.shinseina.world/post/_pogo
+________________
+Weeping Willow
+Use: Once this flower is removed from where it originally grew, within ten seconds it turns into a gigantic purple weeping willow tree wherever it is thrown.
+Location: Forests and Deserts
+Preparation: None.
+Cost: Unsold.
+Legality: N/A
+Link: https://www.shinseina.world/post/weeping-willow
+________________
+Flyhigh
+Use: Once boiled and consumed, it grants the user temporary wings that allow them to fly. This effect lasts for approximately 20 turns.
+Location: Forest
+Preparation: Boiling (and drunk).
+Cost: 25 Copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/flyhigh
+________________
+Blood Lotus
+Use: Similar to a Venus flytrap, this plant opens up and swallows nearby creatures to drain their blood for sustenance. It cannot be removed from the ground once grown, or it will instantly die.
+Location: Forest and Corrupted Land.
+Preparation: None.
+Cost: None.
+Legality: N/A
+Link: https://www.shinseina.world/post/blood-lotus
+________________
+Devil's Berry
+Use: A poisonous berry that, once consumed, can cause high fever and blood vomiting.
+Location: Forest (grows on a very short tree that lacks leaves and has dying purple flowers).
+Preparation: None.
+Cost: Not sold.
+Legality: N/A
+Link: https://www.shinseina.world/post/devil-s-berry
+________________
+Joywhisper
+Use: The pollen this flower produces, when inhaled, can cause the user to feel a false sense of happiness and joy, often relaxing their mind and body while dulling all senses.
+Location: Forest
+Preparation: None.
+Cost: 15 Copper.
+Legality: N/A
+Link: https://www.shinseina.world/post/joywhisper
+________________
+Black Stinger
+Use: This plant has a sharp tip, and if it cuts a person, even slightly, the person will get a high fever. This plant dies if it is removed from the ground.
+Location: Destroyed Swamp
+Preparation: None.
+Cost: Not for sale.
+Legality: N/A
+Link: https://www.shinseina.world/post/black-stinger
+________________
+False Bliss
+Use: The flowers of this vine-like plant release pollen that makes anyone who inhales it see illusions of what they desire most. The plant uses this to attract prey and slowly feed off its life force and mana. However, it will instantly die if cut or removed from where it grows.
+Location: Forest and Mountain
+Preparation: None.
+Cost: N/A
+Legality: N/A
+Link: https://www.shinseina.world/post/false-bliss
+________________
+Common
+NEKO EARS
+Use: Produces music when wind passes over its leaves. When properly consumed (dried), it gives the consumer 2x sight, smell, and more intense emotions for an entire day. If consumed raw, the effects are completely reversed.
+Location: Oceans, Rivers, Lakes. Grows over coastal rocks or rocks within caves found underwater, and cannot survive completely submerged.
+Preparation: Dry the flowers until left without moisture.
+Cost: 2 copper a flower; 10 Copper for an entire plant.
+Legality: N/A
+Link: https://www.shinseina.world/post/neko-ears
+________________
+KELP BELLS
+Use: An essential for underwater exploration, it produces an excess amount of oxygen within its "bell." When consuming pieces, it allows the user to hold their breath for 5x as long as usual.
+Location: Oceans, Kelp Forests (grows from the seabed, climbing with long stems).
+Preparation: Cut up and boil.
+Cost: Illegal
+Legality: Illegal (harvesting and selling are deemed a necessity for underwater exploration and were nearly wiped out from over-farming).
+Link: https://www.shinseina.world/post/kelp-bells
+________________
+CACTI COLONY
+Use: These cacti plants hold large storages of water (a colony is actually one plant connected by roots).
+Location: Desert (mostly found near Oasis's, primarily void from dunes).
+Preparation: None.
+Cost: N/A
+Legality: N/A
+Link: https://www.shinseina.world/post/copy-of-c-cacti-colony
+________________
+SNAPPER
+Use: Large carnivorous flora that consume animals and sometimes people. Inside their mouths is a pool of acid, able to quickly dissolve what they eat in a matter of minutes. Can be used similar to bean sprouts, and the head is similar to artichokes.
+Location: Majika Forest (commonly grow in patches).
+Preparation: Can be used similar to bean sprouts. Head is similar to artichokes.
+Cost: 30 copper per pound.
+Legality: N/A
+Link: https://www.shinseina.world/post/c-snapper
+________________
+FALSE-ART
+Use: When its core is eaten, it numbs the consumer's nerves entirely for up to 3 turns, making them unable to feel anything along the lines of touch or pain, magic or physical. Behaves like ivy, growing over surrounding vegetables to steal sunlight.
+Location: Arid Lands (grows in large patches).
+Preparation: Take the leaves off. Cut out the core. Can be eaten raw or prepared like any normal vegetable.
+Cost: 15 copper per head.
+Legality: N/A
+Link: https://www.shinseina.world/post/c-false-art
+________________
+

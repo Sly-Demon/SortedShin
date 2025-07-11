@@ -1,0 +1,1660 @@
+{
+    "Legendary": [
+        {
+            "name": "Pyroclast Heart",
+            "Use": "Radiates intense heat and dramatically amplifies fire-based magic, but is highly unstable.",
+            "Location": "Found in caves, volcanos, and deserts.",
+            "MOH Hardness": "13",
+            "Melting Point": "unknown",
+            "Solubility": "unknown",
+            "Link": "https://www.shinseina.world/post/l-pyroclast-heart",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sapphiremanaite",
+            "Use": "Rare blue gemstone (formed from sapphire exposed to mana) that, The gemstone is said to have properties that when mixed with a mixture of liquid mana, the user's blood, and water, allows the drinker to gain an enhanced sense of intelligence, able to solve questions and problems at an enhanced speed.",
+            "Location": "Found within caves deep under the ocean\u2019s surface.",
+            "MOH Hardness": "10",
+            "Melting Point": "Unknown",
+            "Solubility": "soluble",
+            "Link": "https://www.shinseina.world/post/l-sapphiremanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Krakinal",
+            "Use": "Mineral formed from dead krakens, extremely resilient to water pressure and providing a large bonus to water magic.",
+            "Location": "Found very deep underwater.",
+            "MOH Hardness": "21",
+            "Melting Point": "unknown",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/l-krakinal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Rubymanaite",
+            "Use": "Red gemstone from volcanic caves; when used in a mana/blood/water potion, it temporarily boosts the drinker\u2019s defensive capabilities and helps ward off harmful beings.",
+            "Location": "Found in deep underground caves around volcanic lands and lava pools.",
+            "MOH Hardness": "10",
+            "Melting Point": "3600",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/l-rubymanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Toxboonite",
+            "Use": "A living, emerald-green mineral native to corrupted swamps; extremely toxic \u2013 capable of killing B-rank creatures and sicken even A-ranks.",
+            "Location": "Found in the corrupted swamp.",
+            "MOH Hardness": "1",
+            "Melting Point": "1000c",
+            "Solubility": "soluble",
+            "Link": "https://www.shinseina.world/post/l-toxboonite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lichanite",
+            "Use": "Black-and-purple crystal formed from a dead lich\u2019s essence; it significantly boosts Dark magic when used.",
+            "Location": "(Unknown/very rare).",
+            "MOH Hardness": "11",
+            "Melting Point": "2300",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/l-lichanite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Diamondmanaite",
+            "Use": "White crystal formed deep underground; it protects the wearer from harmful magic by lessening the effects of magical attacks without needing any user-supplied mana.",
+            "Location": "Found very deep beneath the surface of the land.",
+            "MOH Hardness": "11",
+            "Melting Point": "2800",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/l-diamondmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Mentilion",
+            "Use": "Dark purple/pink gemstone created from the mental anguish of many; known to enhance mental capabilities (often used by criminal mages).",
+            "Location": "(Unknown).",
+            "MOH Hardness": "6",
+            "Melting Point": "n/a",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/l-mentilion",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Evolite (legendary+ but I have it here)",
+            "Use": "Dark multicolored mineral that rapidly evolves to adapt to its surroundings; prized for advanced technological and magical applications due to its versatility.",
+            "Location": "(Unknown/legendary+).",
+            "MOH Hardness": "18+",
+            "Melting Point": "7800",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/evolite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Prophyst",
+            "Use": "Clear pink gemstone from underground caves; when held or worn, it grants confusing visions of the future (which never include the user), though its power weakens with each use.",
+            "Location": "Found in deep underground caves, often near water sources.",
+            "MOH Hardness": "6",
+            "Melting Point": "1300",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/prophyst",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Touch of Light",
+            "Use": "A legendary mineral imbued with the power of light, capable of glowing brightly enough to illuminate a city block and possessing healing and rejuvenating properties for living beings (non-fatal wounds).",
+            "Location": "Very tall Mountains or high-altitude areas with clear skies",
+            "MOH Hardness": "8",
+            "Melting Point": "2000",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/touch-of-light",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Darkness Embrace",
+            "Use": "Pitch-black crystal that absorbs all light in a 50m radius and emits a dark aura; extremely dangerous (can drive users insane or even be lethal).",
+            "Location": "Found very deep underground in pitch-black, mana-filled places.",
+            "MOH Hardness": "8",
+            "Melting Point": "it can't be melted by conventional means",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/darkness-embrace",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Arcane Crystal",
+            "Use": "Violet crystal infused with immense mana; it greatly amplifies a user\u2019s magic, allowing spells to be cast more effectively and can absorb/store mana for later use (though mishandling it can cause intense magical feedback).",
+            "Location": "Found in highly magical areas such as enchanted forests or ancient ruins.",
+            "MOH Hardness": "13",
+            "Melting Point": "2500",
+            "Solubility": "n/a",
+            "Link": "https://www.shinseina.world/post/arcane-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Mana Crystal",
+            "Use": "Crystal that accumulates ambient mana; cracking one releases stored mana, and they are widely used in magic technology and constructs that require a mana source.",
+            "Location": "Found in any place with abundant mana.",
+            "MOH Hardness": "2",
+            "Melting Point": "n/@",
+            "Solubility": "n/a",
+            "Link": "https://www.shinseina.world/post/mana-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Draconic Ore",
+            "Use": "Extremely rare ore from a dead dragon\u2019s body; armor or weapons made with it (or infused with it) are virtually unbreakable and it can be easily infused with mana for additional bonuses.",
+            "Location": "Found in the Dragon Realm.",
+            "MOH Hardness": "23",
+            "Melting Point": "unknown",
+            "Solubility": "n/a",
+            "Link": "https://www.shinseina.world/post/draconic-ore",
+            "Additional Notes": ""
+        },
+        {
+            "name": "ADAMANT",
+            "Use": "Legendary purple/green/white mineral; it can cut and smash any other mineral, releasing a massive destructive burst when fractured, and it conducts mana very easily.",
+            "Location": "Discovered in the deep ocean and frozen tundra.",
+            "MOH Hardness": "13",
+            "Melting Point": "4000",
+            "Solubility": "insoluble",
+            "Link": "https://www.shinseina.world/post/adamant",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Metocite (not tagged in the site)",
+            "Use": "A hard crystal that conducts magnetic fields abnormally well. Potent with mana, it can be used in electronics by enchantments, primarily in high-end laboratories or research facilities. It can generate both positive or negative magnetic fields when controlled by mana, though this effect is difficult to control properly.",
+            "Location": "Anywhere (formed when mana mixes into a storm and lightning strikes metallic substance, incredibly rare).",
+            "MOH Hardness": "7.5",
+            "Melting Point": "2800\u2218C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/metocite",
+            "Additional Notes": "Legality: Banned in major cities without authorization from the government due to its destructive capability when surrounded by metallic structures.\nCost: 10 gold per pound"
+        },
+        {
+            "name": "Albassium",
+            "Use": "A rare mineral known for its light-absorbing properties, making armor and equipment nearly invisible in low-light environments and providing natural camouflage in shadows. Its density also reinforces light armor without compromising silence or mobility.",
+            "Location": "Deep underground and deep seas.",
+            "MOH Hardness": "9",
+            "Melting Point": "2000\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/r-albassium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Azurite Spires",
+            "Use": "Mana-conductive crystalline formations that, when embedded into armor or weapons, grant enhanced magical conductivity and resilience. They grow within massive constructs that are sustained by the mineral's mana.",
+            "Location": "Found in Frozen Tundra, Ocean Caves, and Deep Caverns.",
+            "MOH Hardness": "9",
+            "Melting Point": "3200\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-azurite-spires",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Appetence Crystals",
+            "Use": "Crystalline shards that, when attuned and refined, can return an infinite distance to each other, acting like a \"massive, crystal boomerang.\" They are also very mana-dense and more prone to mana-based enchants.",
+            "Location": "Can be found almost anywhere in The Grand Blue (Oceans), though in remote and harsh corners.",
+            "MOH Hardness": "9",
+            "Melting Point": "3000\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/r-appetence-crystals",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Krakyen Eyes",
+            "Use": "Dark, glossy orbs that have the ability to see through high-ranking illusions, can improve eyesight when used in eyewear, and are highly prized by navigators and explorers for increasing their sensory feel.",
+            "Location": "Found near the bodies of rotting and dead fauna, or people, at the bottom of the ocean (Mass Graves).",
+            "MOH Hardness": "6",
+            "Melting Point": "2000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-krakyen-eyes",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Laiokite",
+            "Use": "A rumored mineral with the unique property of naturally spreading the corruption of the Corrupted Swamp, slowly poisoning a small radius of life around it.",
+            "Location": "Found in the Corrupted Swamp, deep underground where the corruption originated.",
+            "MOH Hardness": "11 MoH",
+            "Melting Point": "1750\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/laiokite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Emeraldmanaite",
+            "Use": "A rare gemstone that naturally enhances the mental capabilities of the wearer, boosting their mental faculties, reaction speed, and learning capabilities, making it highly useful for scholars.",
+            "Location": "Naturally forms around lands where lava and water have met, often near the edges of deserts or around tropical lands.",
+            "MOH Hardness": "9",
+            "Melting Point": "N/A",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-emeraldmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sciorptio",
+            "Use": "A living mineral that, when harvested, can produce a mixture of toxic minerals depending on the materials it has been exposed to, taking on properties of those materials to an extent. Highly dangerous to hunt due to its instinct to attack any lifeform.",
+            "Location": "Can be found roaming the caves of the tundra.",
+            "MOH Hardness": "8",
+            "Melting Point": "2300\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-sciorptio",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Garnetmanaite",
+            "Use": "A rare gemstone that grants the wearer an enhanced regenerative factor and can even aid in curing magical alignments and curses.",
+            "Location": "Naturally forms deep within underground caves, primarily under areas with large stretches of deserts and sand.",
+            "MOH Hardness": "8",
+            "Melting Point": "2800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-garnetmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ligtinion",
+            "Use": "A very rare mineral said to possess great properties of lightning and can even produce lightning if provided with mana. Its exact origin is unknown, with tales suggesting it forms from the death of a Raiju or from repeated lightning strikes.",
+            "Location": "Found in shallow ground on high peaks.",
+            "MOH Hardness": "10",
+            "Melting Point": "5000\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/r-ligtinion",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lapis Lazulimanaite",
+            "Use": "A rare gemstone that grants the wearer a boost in their psychic capabilities, aiding in both boosting their own psychic abilities and resisting other psychic attacks directed towards them.",
+            "Location": "Naturally forms within tall mountainous peaks where they are exposed to high altitudes and mana.",
+            "MOH Hardness": "7",
+            "Melting Point": "N/A",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/r-lapis-lazulimanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Averistone",
+            "Use": "A very rare mineral that can lessen the impact of magic-based attacks by absorbing a portion of mana and possesses strong resistance to magical attacks, making it a valuable component in magical armor and weapons.",
+            "Location": "Found in high-altitude mountain peaks and floating lands.",
+            "MOH Hardness": "4",
+            "Melting Point": "1300\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/averistone",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Pixstone",
+            "Use": "A rare mineral used for decorative purposes or as a spell catalyst due to its mana absorption and amplification properties. It can also be ground into a powder for use as an ingredient in various magical potions.",
+            "Location": "Commonly found within caves and underground areas, often places filled with an abundance of ambient mana.",
+            "MOH Hardness": "4",
+            "Melting Point": "1500\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/pixstone",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Dwarven Steel",
+            "Use": "An incredibly durable and magically potent metal, highly valued for its strength and magical conductivity. It is crafted using a secret combination of materials known only to the Mountain Village.",
+            "Location": "Mountain Village Exclusive.",
+            "MOH Hardness": "8.8",
+            "Melting Point": "2354\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/dwarven-steel",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lunarthrite",
+            "Use": "A luminous ore that, under moonlight, shifts in density and resonance, becoming heavier and more magically conductive, channeling subtle gravitational fields at its peak. Can be dulled by prolonged artificial light and nullified if stored improperly until recharged under moonlight.",
+            "Location": "Forms in high-altitude regions during rare celestial events where mana converges with lunar rays.",
+            "MOH Hardness": "6",
+            "Melting Point": "3240\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-lunarthrite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Crystaloom",
+            "Use": "A fragile, flower-shaped crystal that, when melted and reforged into equipment or jewelry, grants a 4x boost to nature-based magic. Its low durability limits its use to enchantment-focused items. It also emits a soft floral scent and can be used as a spell catalyst or ground into powder for magical potions.",
+            "Location": "Found in forests, particularly in areas dense with plant decay and ambient mana.",
+            "MOH Hardness": "2",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "Not Soluble",
+            "Link": "https://www.shinseina.world/post/r-crystaloom",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Emberglow Resin",
+            "Use": "A crystallized fusion of tree resin and volcanic ash that emits a gentle warmth and can be melted and shaped into fire-resistant coatings or enchanted to store heat for long durations. When broken with force, it releases a burst of fire mana, causing small localized blazes.",
+            "Location": "Found in Volcanic Regions and Barren Land.",
+            "MOH Hardness": "4.5",
+            "Melting Point": "600\u00b0C",
+            "Solubility": "Partially soluble",
+            "Link": "https://www.shinseina.world/post/r-emberglow-resin",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Nature's Core",
+            "Use": "A living crystal that enhances nature magic, rapidly regenerates plant life, and is sought after for alchemical potions that extend vitality. Fragments can rejuvenate plant-life and dry soil, but prolonged exposure causes 'Greenbind' (plant life fuses with the wielder\u2019s body). Difficult to shape due to its healing properties.",
+            "Location": "Forms in Forests and Overgrown Areas.",
+            "MOH Hardness": "6.5",
+            "Melting Point": "1800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-nature-s-core",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Aqualight Quart",
+            "Use": "A durable mineral useful in construction and jewelry-making, and believed to have magical properties related to storms and tsunamis. It is highly liked by water-based races.",
+            "Location": "Found in the Ocean, Deep Caverns, and Caves.",
+            "MOH Hardness": "5",
+            "Melting Point": "1700\u00b0C",
+            "Solubility": "Insoluble in water, slightly soluble in acids",
+            "Link": "https://www.shinseina.world/post/r-aqualight-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Submariners Gold",
+            "Use": "A rare, golden-adjacent mineral said to bring good fortune and protection to sailors. It doubles as a handy hull reinforcement due to its complete immunity to rust and natural wear & tear on the ocean.",
+            "Location": "Found in the Ocean, specifically harvested from sunken ship hulls. Its naturally forming state has been lost to time.",
+            "MOH Hardness": "10",
+            "Melting Point": "5000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-submariners-gold",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Blankium",
+            "Use": "A rare ore, harder than steel but extremely light, making it the perfect material for crafting armor and weaponry and practically anything else. However, it reduces the effectiveness of enchantments and is extremely difficult to process, requiring extreme temperatures to smelt and shape.",
+            "Location": "Found in Underground Mines, Deep Caves, and Underwater.",
+            "MOH Hardness": "7",
+            "Melting Point": "5475\u00b0C",
+            "Solubility": "Semi-Soluble",
+            "Link": "https://www.shinseina.world/post/r-blankium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Votidio",
+            "Use": "A rare mineral that absorbs any mana flowed into it, removing its properties and releasing it back out as ambient mana. Due to this, it is often used for machinery and other devices.",
+            "Location": "Commonly found underground deep within caves and mountains.",
+            "MOH Hardness": "8",
+            "Melting Point": "1538\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-votidio",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Horatie",
+            "Use": "A mineral with a hard but flexible nature, often used for a variety of crafting. It grows on the back of small, golem-like stone creatures that are not truly alive but possess instinctive movement.",
+            "Location": "Found within caves and underground pathways close to water.",
+            "MOH Hardness": "8",
+            "Melting Point": "2500\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-horatie",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Glacialite",
+            "Use": "A cold and magically potent mineral that forms from mana-abundant ice. Even placing it near something will make it frost over, making it good for objects with ice enchantments or for cooling things down as it gives off constant cold.",
+            "Location": "Forms in the Tundra when ice is left untouched near areas where mana is abundant for many years.",
+            "MOH Hardness": "5",
+            "Melting Point": "4500\u00b0C",
+            "Solubility": "Soluble in very hot liquids",
+            "Link": "https://www.shinseina.world/post/r-glacialite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Amethystmanaite",
+            "Use": "A rare gemstone with properties that allow it to soothe the emotions of those around it or aid in the absorption of negative emotions, helping one attain emotional balance.",
+            "Location": "Naturally forms within the ground near volcanic land or areas where lava has flowed.",
+            "MOH Hardness": "8",
+            "Melting Point": "2300\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-amethystmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Topazmanaite",
+            "Use": "A rare gemstone that grants the wearer a boost of confidence and mental resistance to effects such as fear or doubt, allowing one to feel more confident in themselves and their beliefs.",
+            "Location": "Naturally forms within underground caves and tunnels in cavities and rock formations created by cooling lava.",
+            "MOH Hardness": "9",
+            "Melting Point": "3000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-topazmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Peridotmanaite",
+            "Use": "A rare gemstone that allows the wearer to gain an enhanced healing factor and can even aid in curing illnesses.",
+            "Location": "Naturally forms deep within underground caves, primarily under areas with floral overgrowth such as forests and plains.",
+            "MOH Hardness": "8",
+            "Melting Point": "2100\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-peridotmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Hatulei",
+            "Use": "A rare mineral known for its capability of rapidly absorbing heat and providing a cooling nature to anything around it, making it useful for blacksmiths, construction, and more. It is not used for crafting due to its fragility.",
+            "Location": "Found underground near water sources, such as underground waterways or lakes.",
+            "MOH Hardness": "6",
+            "Melting Point": "4800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-hatulei",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Citirlionaite",
+            "Use": "A mineral useful due to its healing properties, said to be able to aid in the process of healing if grinded and consumed. Its growth is protected by fly-like golem creatures it forms from surrounding stone.",
+            "Location": "Commonly found within mountainous caves and peaks.",
+            "MOH Hardness": "5",
+            "Melting Point": "1200\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-citirlionaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lifainite",
+            "Use": "A dangerous and highly illegal mineral that feeds on the life energy of any living or dead being, draining them of flesh, bone, blood, and biological matter. It emanates unease and anxiety. Tales suggest ancient use in rituals for sacrificing life energy.",
+            "Location": "Found in Caves, tombs, and other dark, stagnant places.",
+            "MOH Hardness": "6",
+            "Melting Point": "1750\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/lifainite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Echo Crystal",
+            "Use": "A rare mineral that emits a musical sound when struck or hit, with the sound varying based on size, shape, and impact force. Highly valued by musicians and sound crafters for creating musical instruments and audio equipment.",
+            "Location": "Forms in Caves and underground chambers where sound bounces repeatedly.",
+            "MOH Hardness": "4",
+            "Melting Point": "1750\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/echo-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lumina Ore",
+            "Use": "A rare and valuable mineral popular for decorative purposes due to its soft blue light and glowing white streaks. It also possesses magical properties: when infused with mana, it can enhance the magical abilities of the wielder and imbue their attacks with powerful light-based magic.",
+            "Location": "Can only be found in the deepest parts of the earth, specifically caverns and underground mines.",
+            "MOH Hardness": "4.5",
+            "Melting Point": "1200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/lumina-ore",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Starlight Quartz",
+            "Use": "A rare and highly sought-after mineral useful in construction and jewelry-making. It is believed to have magical properties related to the night sky and starlight, and is popular among starlings for jewelry.",
+            "Location": "Forms in caverns deep underground, often near underground water sources.",
+            "MOH Hardness": "5",
+            "Melting Point": "1700\u00b0C",
+            "Solubility": "Insoluble in water, slightly soluble in acids",
+            "Link": "https://www.shinseina.world/post/starlight-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Seale",
+            "Use": "A rare blue gemstone that gives whatever is holding it a boost in water affinity.",
+            "Location": "Can be found in the waters of the Dragon Realm Seas and Water.",
+            "MOH Hardness": "3",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/seale",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Rampagon",
+            "Use": "A mineral that, upon causing a wound, forces the injured person into a rampage state for 5 turns (or until healed), multiplying all stats and magic by 2x but rendering the user unable to think rationally, leading to violent and destructive tendencies. The effect lasts as long as the gem is in the wound. Illegal for market value.",
+            "Location": "Found in the Destroyed Swamp, more abundant in deeper areas.",
+            "MOH Hardness": "6",
+            "Melting Point": "2400\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/r-rampagon",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Reikia",
+            "Use": "A rare gemstone capable of storing corrupted mana within it without leaking or affecting surrounding objects. If other types of mana are poured into it, that mana will be turned into corrupted mana and expelled.",
+            "Location": "Forms naturally under the Corrupted Swamp, absorbing corrupted mana and the blood of fallen beings.",
+            "MOH Hardness": "4",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/reikia",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Vitillium",
+            "Use": "A mineral that can be molded into the format of any missing or dying organ for all kinds of races (even non-organic ones), and it will automatically acquire the function of said organ, from skin to brains. The more well-shaped, the better its function.",
+            "Location": "Found in The Mountains.",
+            "MOH Hardness": "3",
+            "Melting Point": "230\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/vitillium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Black Ebony",
+            "Use": "Pure black ores often used in black armor to induce subtle fear across the battlefield. This fear can be combatted by trained individuals, but the effect reaches out to those who look upon the material, including the user.",
+            "Location": "Found in Mountains & Deep Underground depths of caves or molten lava.",
+            "MOH Hardness": "8",
+            "Melting Point": "1453\u00b0C",
+            "Solubility": "Supersaturated",
+            "Link": "https://www.shinseina.world/post/black-ebony",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Trillium",
+            "Use": "A mineral that, due to its impossible geological composition and refraction value, is able to channel any light with UV rays and form a laser beam with it. Its use is prohibited outside of factory usage due to its dangerous ability to cause severe burns and disintegrate flesh.",
+            "Location": "Found as the main compositor of crygons (within Crystal caves). Its true origins are a mystery.",
+            "MOH Hardness": "6",
+            "Melting Point": "Unknown",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/trillium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Twin Crystal",
+            "Use": "Originally white, these crystals amplify light magic and make others friendlier towards the holder. When non-light mana is introduced, their color turns black, and their effects become opposite: amplifying dark magic and making people less friendly.",
+            "Location": "Found in Crystal caves.",
+            "MOH Hardness": "7",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/twin-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sam\u00e0nos",
+            "Use": "Absorbs portions of pure mana from living beings. For ordinary people, it brings luck and purification when used as necklaces, rings, etc. For beastkin, being around it or consuming it as a potion heals them, both in mind and body. Normally used in wands, refined healing potions, and accessories.",
+            "Location": "Found in the Omnis region/Areas with dense vegetation.",
+            "MOH Hardness": "4",
+            "Melting Point": "210\u00b0C (410\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/sam%C3%A0nos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Chalcos",
+            "Use": "A unique copper that has absorbed mana into its core chemical formula, making it the only mineral capable of proving mana can be a mineral. It conducts electricity and mana better, allowing for the construction of advanced robots or general cybernetics, enabling machines to use magic and gain a mana flow. Normally bought by rich people, including royalties.",
+            "Location": "Found in Mountains.",
+            "MOH Hardness": "6",
+            "Melting Point": "2170\u00b0C (3938\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/chalcos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Kinn\u00e1vari",
+            "Use": "A mineral previously used as a pigment in ancient times, now capable of easily releasing its toxic mercury with minimal amounts of mana. This property made it abandoned as a pigment due to its toxicity.",
+            "Location": "Found in Desert ruins and dunes.",
+            "MOH Hardness": "2.0\u20132.5",
+            "Melting Point": "250\u00b0C (500\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/kinn%C3%A1vari",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Corpo Crystal",
+            "Use": "A dangerous crystal that, if touched with bare skin, leads to a high fever. If ground into a powder and ingested, it would lead to high fever and possible death. Not sold due to its nature.",
+            "Location": "Can only be found within the grounds of the Corrupted Swamp, due to the high abundance of corrupted mana it needs to absorb to form.",
+            "MOH Hardness": "1",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/corpo-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Blood Crystal",
+            "Use": "A rare crystal capable of healing a person's small wounds with ease, replacing lost blood. It forms from high concentrations of blood and mana.",
+            "Location": "Varies, formed in areas with lots of blood, such as great battles, wars, or slaughter.",
+            "MOH Hardness": "4",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/blood-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Darkstone",
+            "Use": "A rare mineral that has trapped heat within it and gains the ability to heat up as long as mana is poured into it. It forms from concentrations of mana and heat.",
+            "Location": "Found in the desert around extremely hot areas.",
+            "MOH Hardness": "5",
+            "Melting Point": "2300\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/darkstone",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ocino (not tagged)",
+            "Use": "Contains concentrated pockets of mana (typically water mana) flowing inside. Sometimes used in the creation of dams or as sources of mana for mana potions.",
+            "Location": "Underwater (formed when mana is compressed between sand or stone underwater over thousands of years).",
+            "MOH Hardness": "5.5",
+            "Melting Point": "1100\u2218C",
+            "Solubility": "Soluble interior",
+            "Link": "https://www.shinseina.world/post/ocino",
+            "Additional Notes": "Legality: N/A\nCost: 2 Silver per pound"
+        },
+        {
+            "name": "Obelion Spikes",
+            "Use": "A brittle yet incredibly sharp mineral, naturally growing in spike-like formations, highly sought after for precision. However, it shatters into razor-like shards if struck at improper angles.",
+            "Location": "Found in Caves, Dark Areas, and Tundra.",
+            "MOH Hardness": "5",
+            "Melting Point": "1900\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-obelion-spikes",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Terra Glass",
+            "Use": "Absorbs minor amounts of mana and has the unique property of sustaining flora inside containers made of it for 50% longer, useful for flower vases and food storage. Also serves industrial purposes as a natural glass that is easy to smelt, though a bit weaker than normal glass.",
+            "Location": "Found in Jungles and forests adjacent to mountains, typically in large, abundant spikes.",
+            "MOH Hardness": "5",
+            "Melting Point": "700\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-terra-glass",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Luminite",
+            "Use": "Known for its extraordinary ability to absorb and amplify ambient light, providing light to the surrounding area with ease. Highly coveted among nobility and crafters for creating enchanted lanterns, softly glowing jewelry, and other useful items.",
+            "Location": "Found atop mountain peaks and landmasses with abundant sunlight.",
+            "MOH Hardness": "5",
+            "Melting Point": "2000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-luminite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Volca",
+            "Use": "Filled with mana and gives off 1000\u00b0C temperatures, making it very hot and dangerous to handle without precautions. Useful for mixing with other materials to strengthen fire enchantments.",
+            "Location": "Forms in Volcanos when molten rocks absorb mana and crystallize.",
+            "MOH Hardness": "5.5",
+            "Melting Point": "1500\u00b0C",
+            "Solubility": "Soluble in very cold liquids",
+            "Link": "https://www.shinseina.world/post/uc-volca",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Duplicikite",
+            "Use": "An uncommon mineral forming in half-empty clusters of two, where one side is physical, and the other is mana-based. (Specific uses beyond this duality are not detailed in the description provided.)",
+            "Location": "Found in the Corrupted Swamp.",
+            "MOH Hardness": "7",
+            "Melting Point": "1500\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-duplicikite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ice Crystal",
+            "Use": "A form of mana crystal that is cold to the touch, borderline freezing. These crystals are formed into jewelry or gear to add a 3x boost to ice magic.",
+            "Location": "Found formed in Tundras and cold biomes.",
+            "MOH Hardness": "1",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/uc-ice-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Arcanite",
+            "Use": "Absorbs a portion of the blood that creatures (spiders or similar insects) feed on to grow larger. While not good for crafting weapons, its ability to absorb blood and grow makes it interesting.",
+            "Location": "Found in the caves and underground of the Dragon Realm, commonly growing on the backs of spiders or other similar insects.",
+            "MOH Hardness": "3",
+            "Melting Point": "300\u00b0C",
+            "Solubility": "N/A",
+            "Link": "http://shinseina.world/post/_arca",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Cobalto",
+            "Use": "Absorbs mana and produces a bubble that, when popped, releases a terrible gas that makes things dizzy and disgusted. While not very hard or useful for crafting, this ability makes it interesting.",
+            "Location": "Found within the Dragon Realm, more commonly growing on the shells of aquatic or cave-dwelling creatures.",
+            "MOH Hardness": "2",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/cobalto",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ambertim",
+            "Use": "Absorbs mana to grow slowly; some even fully absorb and kill the insect they are attached to. While not very hard or useful for making weapons, its unique ability to absorb mana to grow makes it interesting.",
+            "Location": "Found within the caves and underground of the Dragon Realm, often growing on the body of beetles and insects.",
+            "MOH Hardness": "4",
+            "Melting Point": "400\u00b0C",
+            "Solubility": "N/A",
+            "Link": "http://shinseina.world/post/ambertim",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Wonkeria",
+            "Use": "Causes the person touching it to feel woozy and dizzy, seeing, feeling, and hearing things, much like delusions. It is illegal to sell, and possession can lead to trouble.",
+            "Location": "Found within deep caves and underground veins.",
+            "MOH Hardness": "3",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/wonkeria",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Heliem",
+            "Use": "Known for its ability to heal those who grind it up and consume it, being able to heal basic wounds with a single teaspoon full, and even medium wounds with five teaspoonfuls.",
+            "Location": "Found under forested areas, formed by absorbing and being infused with the mana of the area.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "Yes (Soluble)",
+            "Link": "https://www.shinseina.world/post/heliem",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Shadow Crystal",
+            "Use": "Breaking the crystal releases the darkness from within, creating a cloak of shadows over the area it is broken for a period of time. Forms from the concentration of mana and darkness.",
+            "Location": "Commonly found deep underground within caves where light does not reach.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/shadow-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Light Crystal",
+            "Use": "Breaking the crystal releases the light from within, creating a cloak of light over the area it is broken for a period of time. Forms from the concentration of mana and light.",
+            "Location": "Commonly found where bright lights are always present or where light is in bright concentrations.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/light-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Illuso",
+            "Use": "A mineral that has absorbed both mana and memories, resulting in light reflected upon it to reveal memories from the nearest being. If tinkered with by an expert on illusory magic, it can result in powerful illusions. It only works under any source of light.",
+            "Location": "Found in Grassland plains, below the dirt and in caves.",
+            "MOH Hardness": "5",
+            "Melting Point": "647\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/illuso",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Rupture Gem",
+            "Use": "Upon impact, the unstable and destructive mana inside is partially released, resulting in a concentrated explosion. If completely broken, it can cause a gigantic explosion of 30 meters, with the size and strength increasing with the gem's size. Used for mining equipment and sophisticated explosion-resistant equipment or demolishing old buildings. Tools equipped with it are called \"rupture tools.\"",
+            "Location": "Found in Monium unexplored caves.",
+            "MOH Hardness": "6",
+            "Melting Point": "5030\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/rupture-gem",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Meticy",
+            "Use": "A more durable variation of iron that, when in contact with anything, freezes the object almost instantly. Strangely, fabric is immune to the freezing effect. Believed to be formed by a fusion between mana and cold.",
+            "Location": "Forms in areas with temperatures below 0, specifically the Frozen Tundra.",
+            "MOH Hardness": "10",
+            "Melting Point": "390\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/meticy",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Grlythite",
+            "Use": "Very potent with shadow and earth mana. The prisms practically melt in basic liquids, but acidic liquids have no effect. Often used in the creation of assassin weapons or in laboratories to handle dangerous liquids.",
+            "Location": "Forms in the Corrupted Land of Shinseina when dead creature bones and materials compress beneath the land.",
+            "MOH Hardness": "3.5",
+            "Melting Point": "900\u00b0C",
+            "Solubility": "Very Soluble in basic liquid",
+            "Link": "https://www.shinseina.world/post/grlythite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Yeortzie",
+            "Use": "When the pink part of this crystalline structure is pressed against organic materials, it leaves markings similar to ink from a pen, creating \"invisible mana ink\" readable through magic by trained individuals. Due to its use in sending illegal messages, it is illegal in major clans but allowed in independent villages.",
+            "Location": "Can be found Anywhere in crystalline structures.",
+            "MOH Hardness": "3.5",
+            "Melting Point": "1050\u00b0C",
+            "Solubility": "Minorly Soluble",
+            "Link": "https://www.shinseina.world/post/yeortzie",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Electric Crystal",
+            "Use": "Can be used to generate electricity through absorbing mana, often used to power small appliances due to only coming in palm-size. Bigger pieces are not capable of absorbing more mana after running out.",
+            "Location": "Found Underground, varies.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/electric-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Trakeom Ore",
+            "Use": "Once processed, this ore is able to show the rough location of a person as long as their blood is dropped on the ore beforehand and shone over a map. Without processing, it is useless.",
+            "Location": "Found in Mountain Range Underground.",
+            "MOH Hardness": "2",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/trakeom-ore",
+            "Additional Notes": ""
+        },
+        {
+            "name": "FrostGem",
+            "Use": "A somewhat fragile gemstone that can be used as a cooling means.",
+            "Location": "Found in the Frozen Tundra.",
+            "MOH Hardness": "2",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "Yes (Soluble)",
+            "Link": "https://www.shinseina.world/post/frostgem",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Glittering Heart",
+            "Use": "A colorful gem commonly used in jewelry and decorative charms due to its delicate beauty. When liquefied and added to healing potions, it can double their restorative effectiveness. Though fragile, its abundance makes it a staple among herbalists and potion crafters.",
+            "Location": "Forms from condensed nature mana in Forests and flower-covered plains.",
+            "MOH Hardness": "4",
+            "Melting Point": "300\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/c-glittering-heart",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Starshard Quartz",
+            "Use": "A naturally occurring crystal that faintly glows under moonlight, commonly used by many scholars because of its ability to capture light. Though relatively brittle and easily broken.",
+            "Location": "Forms where mana and starlight gather in the ground, found in Mountain peaks, deep caves, and cold tundras.",
+            "MOH Hardness": "5",
+            "Melting Point": "550\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-starshard-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Duskrift",
+            "Use": "A very light and soft mineral that naturally absorbs small amounts of ambient mana, making it enchanted in nature and able to hold mana easily. Commonly used in rune making and low-level magical items due to its ability to hold temporary enchantments longer than regular stone. Exposure to strong magic causes it to decay rapidly.",
+            "Location": "Found in Underground Caverns, Dark Areas.",
+            "MOH Hardness": "2",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-duskrift",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Scorchshale",
+            "Use": "A brittle mineral. Some alchemists refine it into powders that dull kinetic force. However, it is fragile and crumbles easily under repeated stress, and prolonged exposure can cause minor lung irritation.",
+            "Location": "Forms from compressed ash and soil in regions where intense pressure from natural disasters has altered the land (Dry Land).",
+            "MOH Hardness": "4",
+            "Melting Point": "800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-scorchshale",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Kelipite",
+            "Use": "A reflective material that conducts the corruptive mana of the land around it, corroding nearby matter.",
+            "Location": "A common mineral inside of the Corrupted Swamp.",
+            "MOH Hardness": "5",
+            "Melting Point": "1100\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-kelipite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lumegrass",
+            "Use": "Appears like blades of grass but glows. Often harvested by farmers for its unique properties of being able to act as a healthy supplement to animals or even a vitamin to people that eat it. Contains a very low concentration of mana, making it a good daily food supplement.",
+            "Location": "Can be found commonly in Meadows, grasslands.",
+            "MOH Hardness": "0.5",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/lumegrass",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Papsui",
+            "Use": "Underwater sprouts of thin, bubbling mana lines that mix with sand to form glass-like mana strands. The mana bubbling up from these crystals gives off a low blue glow, making them ideal for cinematography equipment and expensive laboratory gear. Stained glass windows are also a popular use of this material.",
+            "Location": "Formed over hundreds of years in the deeper parts of the ocean due to needing to be undisturbed for so long.",
+            "MOH Hardness": "3",
+            "Melting Point": "900\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/papsui",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Wanyte",
+            "Use": "A common mineral with space alteration abilities. When used correctly as an ore, it can teleport you to another properly set Wanyte ore. Used as a common and quick public locomotion. Can teleport anything not larger than its circular area, up to a distance of 1 kilometer.",
+            "Location": "Can be found everywhere.",
+            "MOH Hardness": "3",
+            "Melting Point": "110\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/wanyte",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sklir\u00f3s",
+            "Use": "A \"candy mineral\" that is practically not consumable when raw, but when prepared by a baker, it turns into the hardest candy to exist, even worse than jawbreakers depending on thickness. Its taste is described as a \"mix of strawberry and blueberry.\"",
+            "Location": "Found in Forests and rivers.",
+            "MOH Hardness": "3.5 (Raw), 2 (Prepared)",
+            "Melting Point": "30\u00b0C (86\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/sklir%C3%B3s",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Almyr\u00f3s",
+            "Use": "A type of salt divided into colors, each with unique properties:",
+            "Location": "Found Anywhere, mainly on salt water.",
+            "MOH Hardness": "1.5",
+            "Melting Point": "801\u00b0C (1473\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/almyr%C3%B3s",
+            "Additional Notes": "* White alm: Normal kitchen salt.\n* Blue alm: Bittersweet taste, good for people with cardiac problems (almost non-lethal for races with salt weaknesses).\n* Pink alm: Second most bitter, excellent for meat, but excess can cause cardiac and skin problems (lethal for races with salt weaknesses).\n* Orange alm: Bitter spicy taste, adequate for sauces, can be freely consumed (non-lethal for races with salt weaknesses).\n* Green alm: Sour taste, good with salads/vegetables. Excess can cause diarrhea/stomach aches (lethal for  salt-weak races, non-lethal for powerful ones).\n* Red alm: Most bitter, ordinary people throw up after tasting less than a gram. Can be poisonous in alchemist's hands (extremely lethal for all salt-weak races)."
+        },
+        {
+            "name": "Pa\u00edazos",
+            "Use": "Contains chemical and magical properties allowing the discharge of electricity, either by physical pressure or mana contact, with intensity depending on pressure and mana. More commonly used in heavy machinery and jewelry.",
+            "Location": "Found in Majika forest.",
+            "MOH Hardness": "5",
+            "Melting Point": "130\u00b0C (266\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/pa%C3%ADazos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Water Crystal",
+            "Use": "Useless aside from its ability to help cool the user that is holding it, being able to keep them cold.",
+            "Location": "Can be found underneath the ocean.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/water-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Fire Crystal",
+            "Use": "Can trap heat inside of it and produce it in order to warm up the body of the user. Mostly used for simply warming a person's body when needed.",
+            "Location": "Can be found in the desert or around hot areas.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/fire-crystal",
+            "Additional Notes": ""
+        }
+    ],
+    "RARE": [
+        {
+            "name": "Lunarthrite",
+            "Use": "A luminous ore that, under moonlight, shifts in density and resonance, becoming heavier and more magically conductive, channeling subtle gravitational fields at its peak. Can be dulled by prolonged artificial light and nullified if stored improperly until recharged under moonlight.",
+            "Location": "Forms in high-altitude regions during rare celestial events where mana converges with lunar rays.",
+            "MOH Hardness": "6",
+            "Melting Point": "3240\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-lunarthrite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Crystaloom",
+            "Use": "A fragile, flower-shaped crystal that, when melted and reforged into equipment or jewelry, grants a 4x boost to nature-based magic. Its low durability limits its use to enchantment-focused items. It also emits a soft floral scent and can be used as a spell catalyst or ground into powder for magical potions.",
+            "Location": "Found in forests, particularly in areas dense with plant decay and ambient mana.",
+            "MOH Hardness": "2",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "Not Soluble",
+            "Link": "https://www.shinseina.world/post/r-crystaloom",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Emberglow Resin",
+            "Use": "A crystallized fusion of tree resin and volcanic ash that emits a gentle warmth and can be melted and shaped into fire-resistant coatings or enchanted to store heat for long durations. When broken with force, it releases a burst of fire mana, causing small localized blazes.",
+            "Location": "Found in Volcanic Regions and Barren Land.",
+            "MOH Hardness": "4.5",
+            "Melting Point": "600\u00b0C",
+            "Solubility": "Partially soluble",
+            "Link": "https://www.shinseina.world/post/r-emberglow-resin",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Nature's Core",
+            "Use": "A living crystal that enhances nature magic, rapidly regenerates plant life, and is sought after for alchemical potions that extend vitality. Fragments can rejuvenate plant-life and dry soil, but prolonged exposure causes 'Greenbind' (plant life fuses with the wielder\u2019s body). Difficult to shape due to its healing properties.",
+            "Location": "Forms in Forests and Overgrown Areas.",
+            "MOH Hardness": "6.5",
+            "Melting Point": "1800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-nature-s-core",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Aqualight Quart",
+            "Use": "A durable mineral useful in construction and jewelry-making, and believed to have magical properties related to storms and tsunamis. It is highly liked by water-based races.",
+            "Location": "Found in the Ocean, Deep Caverns, and Caves.",
+            "MOH Hardness": "5",
+            "Melting Point": "1700\u00b0C",
+            "Solubility": "Insoluble in water, slightly soluble in acids",
+            "Link": "https://www.shinseina.world/post/r-aqualight-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Submariners Gold",
+            "Use": "A rare, golden-adjacent mineral said to bring good fortune and protection to sailors. It doubles as a handy hull reinforcement due to its complete immunity to rust and natural wear & tear on the ocean.",
+            "Location": "Found in the Ocean, specifically harvested from sunken ship hulls. Its naturally forming state has been lost to time.",
+            "MOH Hardness": "10",
+            "Melting Point": "5000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-submariners-gold",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Blankium",
+            "Use": "A rare ore, harder than steel but extremely light, making it the perfect material for crafting armor and weaponry and practically anything else. However, it reduces the effectiveness of enchantments and is extremely difficult to process, requiring extreme temperatures to smelt and shape.",
+            "Location": "Found in Underground Mines, Deep Caves, and Underwater.",
+            "MOH Hardness": "7",
+            "Melting Point": "5475\u00b0C",
+            "Solubility": "Semi-Soluble",
+            "Link": "https://www.shinseina.world/post/r-blankium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Votidio",
+            "Use": "A rare mineral that absorbs any mana flowed into it, removing its properties and releasing it back out as ambient mana. Due to this, it is often used for machinery and other devices.",
+            "Location": "Commonly found underground deep within caves and mountains.",
+            "MOH Hardness": "8",
+            "Melting Point": "1538\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-votidio",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Horatie",
+            "Use": "A mineral with a hard but flexible nature, often used for a variety of crafting. It grows on the back of small, golem-like stone creatures that are not truly alive but possess instinctive movement.",
+            "Location": "Found within caves and underground pathways close to water.",
+            "MOH Hardness": "8",
+            "Melting Point": "2500\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-horatie",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Glacialite",
+            "Use": "A cold and magically potent mineral that forms from mana-abundant ice. Even placing it near something will make it frost over, making it good for objects with ice enchantments or for cooling things down as it gives off constant cold.",
+            "Location": "Forms in the Tundra when ice is left untouched near areas where mana is abundant for many years.",
+            "MOH Hardness": "5",
+            "Melting Point": "4500\u00b0C",
+            "Solubility": "Soluble in very hot liquids",
+            "Link": "https://www.shinseina.world/post/r-glacialite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Amethystmanaite",
+            "Use": "A rare gemstone with properties that allow it to soothe the emotions of those around it or aid in the absorption of negative emotions, helping one attain emotional balance.",
+            "Location": "Naturally forms within the ground near volcanic land or areas where lava has flowed.",
+            "MOH Hardness": "8",
+            "Melting Point": "2300\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-amethystmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Topazmanaite",
+            "Use": "A rare gemstone that grants the wearer a boost of confidence and mental resistance to effects such as fear or doubt, allowing one to feel more confident in themselves and their beliefs.",
+            "Location": "Naturally forms within underground caves and tunnels in cavities and rock formations created by cooling lava.",
+            "MOH Hardness": "9",
+            "Melting Point": "3000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-topazmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Peridotmanaite",
+            "Use": "A rare gemstone that allows the wearer to gain an enhanced healing factor and can even aid in curing illnesses.",
+            "Location": "Naturally forms deep within underground caves, primarily under areas with floral overgrowth such as forests and plains.",
+            "MOH Hardness": "8",
+            "Melting Point": "2100\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-peridotmanaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Hatulei",
+            "Use": "A rare mineral known for its capability of rapidly absorbing heat and providing a cooling nature to anything around it, making it useful for blacksmiths, construction, and more. It is not used for crafting due to its fragility.",
+            "Location": "Found underground near water sources, such as underground waterways or lakes.",
+            "MOH Hardness": "6",
+            "Melting Point": "4800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-hatulei",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Citirlionaite",
+            "Use": "A mineral useful due to its healing properties, said to be able to aid in the process of healing if grinded and consumed. Its growth is protected by fly-like golem creatures it forms from surrounding stone.",
+            "Location": "Commonly found within mountainous caves and peaks.",
+            "MOH Hardness": "5",
+            "Melting Point": "1200\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/r-citirlionaite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lifainite",
+            "Use": "A dangerous and highly illegal mineral that feeds on the life energy of any living or dead being, draining them of flesh, bone, blood, and biological matter. It emanates unease and anxiety. Tales suggest ancient use in rituals for sacrificing life energy.",
+            "Location": "Found in Caves, tombs, and other dark, stagnant places.",
+            "MOH Hardness": "6",
+            "Melting Point": "1750\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/lifainite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Echo Crystal",
+            "Use": "A rare mineral that emits a musical sound when struck or hit, with the sound varying based on size, shape, and impact force. Highly valued by musicians and sound crafters for creating musical instruments and audio equipment.",
+            "Location": "Forms in Caves and underground chambers where sound bounces repeatedly.",
+            "MOH Hardness": "4",
+            "Melting Point": "1750\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/echo-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lumina Ore",
+            "Use": "A rare and valuable mineral popular for decorative purposes due to its soft blue light and glowing white streaks. It also possesses magical properties: when infused with mana, it can enhance the magical abilities of the wielder and imbue their attacks with powerful light-based magic.",
+            "Location": "Can only be found in the deepest parts of the earth, specifically caverns and underground mines.",
+            "MOH Hardness": "4.5",
+            "Melting Point": "1200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/lumina-ore",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Starlight Quartz",
+            "Use": "A rare and highly sought-after mineral useful in construction and jewelry-making. It is believed to have magical properties related to the night sky and starlight, and is popular among starlings for jewelry.",
+            "Location": "Forms in caverns deep underground, often near underground water sources.",
+            "MOH Hardness": "5",
+            "Melting Point": "1700\u00b0C",
+            "Solubility": "Insoluble in water, slightly soluble in acids",
+            "Link": "https://www.shinseina.world/post/starlight-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Seale",
+            "Use": "A rare blue gemstone that gives whatever is holding it a boost in water affinity.",
+            "Location": "Can be found in the waters of the Dragon Realm Seas and Water.",
+            "MOH Hardness": "3",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/seale",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Rampagon",
+            "Use": "A mineral that, upon causing a wound, forces the injured person into a rampage state for 5 turns (or until healed), multiplying all stats and magic by 2x but rendering the user unable to think rationally, leading to violent and destructive tendencies. The effect lasts as long as the gem is in the wound. Illegal for market value.",
+            "Location": "Found in the Destroyed Swamp, more abundant in deeper areas.",
+            "MOH Hardness": "6",
+            "Melting Point": "2400\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/r-rampagon",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Reikia",
+            "Use": "A rare gemstone capable of storing corrupted mana within it without leaking or affecting surrounding objects. If other types of mana are poured into it, that mana will be turned into corrupted mana and expelled.",
+            "Location": "Forms naturally under the Corrupted Swamp, absorbing corrupted mana and the blood of fallen beings.",
+            "MOH Hardness": "4",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/reikia",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Vitillium",
+            "Use": "A mineral that can be molded into the format of any missing or dying organ for all kinds of races (even non-organic ones), and it will automatically acquire the function of said organ, from skin to brains. The more well-shaped, the better its function.",
+            "Location": "Found in The Mountains.",
+            "MOH Hardness": "3",
+            "Melting Point": "230\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/vitillium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Mana Crystal",
+            "Use": "Used extensively in Magic-tech and formations that require mana. Cracking these crystals releases the mana within, while leaving them intact will cause mana to slowly leak until they are no longer useful.",
+            "Location": "Varies, found in places with lots of mana.",
+            "MOH Hardness": "2",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/mana-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Black Ebony",
+            "Use": "Pure black ores often used in black armor to induce subtle fear across the battlefield. This fear can be combatted by trained individuals, but the effect reaches out to those who look upon the material, including the user.",
+            "Location": "Found in Mountains & Deep Underground depths of caves or molten lava.",
+            "MOH Hardness": "8",
+            "Melting Point": "1453\u00b0C",
+            "Solubility": "Supersaturated",
+            "Link": "https://www.shinseina.world/post/black-ebony",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Trillium",
+            "Use": "A mineral that, due to its impossible geological composition and refraction value, is able to channel any light with UV rays and form a laser beam with it. Its use is prohibited outside of factory usage due to its dangerous ability to cause severe burns and disintegrate flesh.",
+            "Location": "Found as the main compositor of crygons (within Crystal caves). Its true origins are a mystery.",
+            "MOH Hardness": "6",
+            "Melting Point": "Unknown",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/trillium",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Twin Crystal",
+            "Use": "Originally white, these crystals amplify light magic and make others friendlier towards the holder. When non-light mana is introduced, their color turns black, and their effects become opposite: amplifying dark magic and making people less friendly.",
+            "Location": "Found in Crystal caves.",
+            "MOH Hardness": "7",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/twin-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sam\u00e0nos",
+            "Use": "Absorbs portions of pure mana from living beings. For ordinary people, it brings luck and purification when used as necklaces, rings, etc. For beastkin, being around it or consuming it as a potion heals them, both in mind and body. Normally used in wands, refined healing potions, and accessories.",
+            "Location": "Found in the Omnis region/Areas with dense vegetation.",
+            "MOH Hardness": "4",
+            "Melting Point": "210\u00b0C (410\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/sam%C3%A0nos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Chalcos",
+            "Use": "A unique copper that has absorbed mana into its core chemical formula, making it the only mineral capable of proving mana can be a mineral. It conducts electricity and mana better, allowing for the construction of advanced robots or general cybernetics, enabling machines to use magic and gain a mana flow. Normally bought by rich people, including royalties.",
+            "Location": "Found in Mountains.",
+            "MOH Hardness": "6",
+            "Melting Point": "2170\u00b0C (3938\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/chalcos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Kinn\u00e1vari",
+            "Use": "A mineral previously used as a pigment in ancient times, now capable of easily releasing its toxic mercury with minimal amounts of mana. This property made it abandoned as a pigment due to its toxicity.",
+            "Location": "Found in Desert ruins and dunes.",
+            "MOH Hardness": "2.0\u20132.5",
+            "Melting Point": "250\u00b0C (500\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/kinn%C3%A1vari",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Corpo Crystal",
+            "Use": "A dangerous crystal that, if touched with bare skin, leads to a high fever. If ground into a powder and ingested, it would lead to high fever and possible death. Not sold due to its nature.",
+            "Location": "Can only be found within the grounds of the Corrupted Swamp, due to the high abundance of corrupted mana it needs to absorb to form.",
+            "MOH Hardness": "1",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/corpo-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Blood Crystal",
+            "Use": "A rare crystal capable of healing a person's small wounds with ease, replacing lost blood. It forms from high concentrations of blood and mana.",
+            "Location": "Varies, formed in areas with lots of blood, such as great battles, wars, or slaughter.",
+            "MOH Hardness": "4",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/blood-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Darkstone",
+            "Use": "A rare mineral that has trapped heat within it and gains the ability to heat up as long as mana is poured into it. It forms from concentrations of mana and heat.",
+            "Location": "Found in the desert around extremely hot areas.",
+            "MOH Hardness": "5",
+            "Melting Point": "2300\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/darkstone",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ocino (not tagged)",
+            "Use": "Contains concentrated pockets of mana (typically water mana) flowing inside. Sometimes used in the creation of dams or as sources of mana for mana potions.",
+            "Location": "Underwater (formed when mana is compressed between sand or stone underwater over thousands of years).",
+            "MOH Hardness": "5.5",
+            "Melting Point": "1100\u2218C",
+            "Solubility": "Soluble interior",
+            "Link": "https://www.shinseina.world/post/ocino",
+            "Additional Notes": "Legality: N/A\nCost: 2 Silver per pound"
+        }
+    ],
+    "UNCOMMON": [
+        {
+            "name": "Obelion Spikes",
+            "Use": "A brittle yet incredibly sharp mineral, naturally growing in spike-like formations, highly sought after for precision. However, it shatters into razor-like shards if struck at improper angles.",
+            "Location": "Found in Caves, Dark Areas, and Tundra.",
+            "MOH Hardness": "5",
+            "Melting Point": "1900\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-obelion-spikes",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Terra Glass",
+            "Use": "Absorbs minor amounts of mana and has the unique property of sustaining flora inside containers made of it for 50% longer, useful for flower vases and food storage. Also serves industrial purposes as a natural glass that is easy to smelt, though a bit weaker than normal glass.",
+            "Location": "Found in Jungles and forests adjacent to mountains, typically in large, abundant spikes.",
+            "MOH Hardness": "5",
+            "Melting Point": "700\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-terra-glass",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Luminite",
+            "Use": "Known for its extraordinary ability to absorb and amplify ambient light, providing light to the surrounding area with ease. Highly coveted among nobility and crafters for creating enchanted lanterns, softly glowing jewelry, and other useful items.",
+            "Location": "Found atop mountain peaks and landmasses with abundant sunlight.",
+            "MOH Hardness": "5",
+            "Melting Point": "2000\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-luminite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Volca",
+            "Use": "Filled with mana and gives off 1000\u00b0C temperatures, making it very hot and dangerous to handle without precautions. Useful for mixing with other materials to strengthen fire enchantments.",
+            "Location": "Forms in Volcanos when molten rocks absorb mana and crystallize.",
+            "MOH Hardness": "5.5",
+            "Melting Point": "1500\u00b0C",
+            "Solubility": "Soluble in very cold liquids",
+            "Link": "https://www.shinseina.world/post/uc-volca",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Duplicikite",
+            "Use": "An uncommon mineral forming in half-empty clusters of two, where one side is physical, and the other is mana-based. (Specific uses beyond this duality are not detailed in the description provided.)",
+            "Location": "Found in the Corrupted Swamp.",
+            "MOH Hardness": "7",
+            "Melting Point": "1500\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/uc-duplicikite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ice Crystal",
+            "Use": "A form of mana crystal that is cold to the touch, borderline freezing. These crystals are formed into jewelry or gear to add a 3x boost to ice magic.",
+            "Location": "Found formed in Tundras and cold biomes.",
+            "MOH Hardness": "1",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/uc-ice-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Arcanite",
+            "Use": "Absorbs a portion of the blood that creatures (spiders or similar insects) feed on to grow larger. While not good for crafting weapons, its ability to absorb blood and grow makes it interesting.",
+            "Location": "Found in the caves and underground of the Dragon Realm, commonly growing on the backs of spiders or other similar insects.",
+            "MOH Hardness": "3",
+            "Melting Point": "300\u00b0C",
+            "Solubility": "N/A",
+            "Link": "http://shinseina.world/post/_arca",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Cobalto",
+            "Use": "Absorbs mana and produces a bubble that, when popped, releases a terrible gas that makes things dizzy and disgusted. While not very hard or useful for crafting, this ability makes it interesting.",
+            "Location": "Found within the Dragon Realm, more commonly growing on the shells of aquatic or cave-dwelling creatures.",
+            "MOH Hardness": "2",
+            "Melting Point": "100\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/cobalto",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Ambertim",
+            "Use": "Absorbs mana to grow slowly; some even fully absorb and kill the insect they are attached to. While not very hard or useful for making weapons, its unique ability to absorb mana to grow makes it interesting.",
+            "Location": "Found within the caves and underground of the Dragon Realm, often growing on the body of beetles and insects.",
+            "MOH Hardness": "4",
+            "Melting Point": "400\u00b0C",
+            "Solubility": "N/A",
+            "Link": "http://shinseina.world/post/ambertim",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Wonkeria",
+            "Use": "Causes the person touching it to feel woozy and dizzy, seeing, feeling, and hearing things, much like delusions. It is illegal to sell, and possession can lead to trouble.",
+            "Location": "Found within deep caves and underground veins.",
+            "MOH Hardness": "3",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/wonkeria",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Heliem",
+            "Use": "Known for its ability to heal those who grind it up and consume it, being able to heal basic wounds with a single teaspoon full, and even medium wounds with five teaspoonfuls.",
+            "Location": "Found under forested areas, formed by absorbing and being infused with the mana of the area.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "Yes (Soluble)",
+            "Link": "https://www.shinseina.world/post/heliem",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Shadow Crystal",
+            "Use": "Breaking the crystal releases the darkness from within, creating a cloak of shadows over the area it is broken for a period of time. Forms from the concentration of mana and darkness.",
+            "Location": "Commonly found deep underground within caves where light does not reach.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/shadow-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Light Crystal",
+            "Use": "Breaking the crystal releases the light from within, creating a cloak of light over the area it is broken for a period of time. Forms from the concentration of mana and light.",
+            "Location": "Commonly found where bright lights are always present or where light is in bright concentrations.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/light-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Illuso",
+            "Use": "A mineral that has absorbed both mana and memories, resulting in light reflected upon it to reveal memories from the nearest being. If tinkered with by an expert on illusory magic, it can result in powerful illusions. It only works under any source of light.",
+            "Location": "Found in Grassland plains, below the dirt and in caves.",
+            "MOH Hardness": "5",
+            "Melting Point": "647\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/illuso",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Rupture Gem",
+            "Use": "Upon impact, the unstable and destructive mana inside is partially released, resulting in a concentrated explosion. If completely broken, it can cause a gigantic explosion of 30 meters, with the size and strength increasing with the gem's size. Used for mining equipment and sophisticated explosion-resistant equipment or demolishing old buildings. Tools equipped with it are called \"rupture tools.\"",
+            "Location": "Found in Monium unexplored caves.",
+            "MOH Hardness": "6",
+            "Melting Point": "5030\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/rupture-gem",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Meticy",
+            "Use": "A more durable variation of iron that, when in contact with anything, freezes the object almost instantly. Strangely, fabric is immune to the freezing effect. Believed to be formed by a fusion between mana and cold.",
+            "Location": "Forms in areas with temperatures below 0, specifically the Frozen Tundra.",
+            "MOH Hardness": "10",
+            "Melting Point": "390\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/meticy",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Grlythite",
+            "Use": "Very potent with shadow and earth mana. The prisms practically melt in basic liquids, but acidic liquids have no effect. Often used in the creation of assassin weapons or in laboratories to handle dangerous liquids.",
+            "Location": "Forms in the Corrupted Land of Shinseina when dead creature bones and materials compress beneath the land.",
+            "MOH Hardness": "3.5",
+            "Melting Point": "900\u00b0C",
+            "Solubility": "Very Soluble in basic liquid",
+            "Link": "https://www.shinseina.world/post/grlythite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Yeortzie",
+            "Use": "When the pink part of this crystalline structure is pressed against organic materials, it leaves markings similar to ink from a pen, creating \"invisible mana ink\" readable through magic by trained individuals. Due to its use in sending illegal messages, it is illegal in major clans but allowed in independent villages.",
+            "Location": "Can be found Anywhere in crystalline structures.",
+            "MOH Hardness": "3.5",
+            "Melting Point": "1050\u00b0C",
+            "Solubility": "Minorly Soluble",
+            "Link": "https://www.shinseina.world/post/yeortzie",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Electric Crystal",
+            "Use": "Can be used to generate electricity through absorbing mana, often used to power small appliances due to only coming in palm-size. Bigger pieces are not capable of absorbing more mana after running out.",
+            "Location": "Found Underground, varies.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/electric-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Trakeom Ore",
+            "Use": "Once processed, this ore is able to show the rough location of a person as long as their blood is dropped on the ore beforehand and shone over a map. Without processing, it is useless.",
+            "Location": "Found in Mountain Range Underground.",
+            "MOH Hardness": "2",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/trakeom-ore",
+            "Additional Notes": ""
+        },
+        {
+            "name": "FrostGem",
+            "Use": "A somewhat fragile gemstone that can be used as a cooling means.",
+            "Location": "Found in the Frozen Tundra.",
+            "MOH Hardness": "2",
+            "Melting Point": "500\u00b0C",
+            "Solubility": "Yes (Soluble)",
+            "Link": "https://www.shinseina.world/post/frostgem",
+            "Additional Notes": ""
+        }
+    ],
+    "COMMON": [
+        {
+            "name": "Glittering Heart",
+            "Use": "A colorful gem commonly used in jewelry and decorative charms due to its delicate beauty. When liquefied and added to healing potions, it can double their restorative effectiveness. Though fragile, its abundance makes it a staple among herbalists and potion crafters.",
+            "Location": "Forms from condensed nature mana in Forests and flower-covered plains.",
+            "MOH Hardness": "4",
+            "Melting Point": "300\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/c-glittering-heart",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Starshard Quartz",
+            "Use": "A naturally occurring crystal that faintly glows under moonlight, commonly used by many scholars because of its ability to capture light. Though relatively brittle and easily broken.",
+            "Location": "Forms where mana and starlight gather in the ground, found in Mountain peaks, deep caves, and cold tundras.",
+            "MOH Hardness": "5",
+            "Melting Point": "550\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-starshard-quartz",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Duskrift",
+            "Use": "A very light and soft mineral that naturally absorbs small amounts of ambient mana, making it enchanted in nature and able to hold mana easily. Commonly used in rune making and low-level magical items due to its ability to hold temporary enchantments longer than regular stone. Exposure to strong magic causes it to decay rapidly.",
+            "Location": "Found in Underground Caverns, Dark Areas.",
+            "MOH Hardness": "2",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-duskrift",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Scorchshale",
+            "Use": "A brittle mineral. Some alchemists refine it into powders that dull kinetic force. However, it is fragile and crumbles easily under repeated stress, and prolonged exposure can cause minor lung irritation.",
+            "Location": "Forms from compressed ash and soil in regions where intense pressure from natural disasters has altered the land (Dry Land).",
+            "MOH Hardness": "4",
+            "Melting Point": "800\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-scorchshale",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Kelipite",
+            "Use": "A reflective material that conducts the corruptive mana of the land around it, corroding nearby matter.",
+            "Location": "A common mineral inside of the Corrupted Swamp.",
+            "MOH Hardness": "5",
+            "Melting Point": "1100\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/c-kelipite",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Lumegrass",
+            "Use": "Appears like blades of grass but glows. Often harvested by farmers for its unique properties of being able to act as a healthy supplement to animals or even a vitamin to people that eat it. Contains a very low concentration of mana, making it a good daily food supplement.",
+            "Location": "Can be found commonly in Meadows, grasslands.",
+            "MOH Hardness": "0.5",
+            "Melting Point": "200\u00b0C",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/lumegrass",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Papsui",
+            "Use": "Underwater sprouts of thin, bubbling mana lines that mix with sand to form glass-like mana strands. The mana bubbling up from these crystals gives off a low blue glow, making them ideal for cinematography equipment and expensive laboratory gear. Stained glass windows are also a popular use of this material.",
+            "Location": "Formed over hundreds of years in the deeper parts of the ocean due to needing to be undisturbed for so long.",
+            "MOH Hardness": "3",
+            "Melting Point": "900\u00b0C",
+            "Solubility": "Insoluble",
+            "Link": "https://www.shinseina.world/post/papsui",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Wanyte",
+            "Use": "A common mineral with space alteration abilities. When used correctly as an ore, it can teleport you to another properly set Wanyte ore. Used as a common and quick public locomotion. Can teleport anything not larger than its circular area, up to a distance of 1 kilometer.",
+            "Location": "Can be found everywhere.",
+            "MOH Hardness": "3",
+            "Melting Point": "110\u00b0C",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/wanyte",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Sklir\u00f3s",
+            "Use": "A \"candy mineral\" that is practically not consumable when raw, but when prepared by a baker, it turns into the hardest candy to exist, even worse than jawbreakers depending on thickness. Its taste is described as a \"mix of strawberry and blueberry.\"",
+            "Location": "Found in Forests and rivers.",
+            "MOH Hardness": "3.5 (Raw), 2 (Prepared)",
+            "Melting Point": "30\u00b0C (86\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/sklir%C3%B3s",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Almyr\u00f3s",
+            "Use": "A type of salt divided into colors, each with unique properties:",
+            "Location": "Found Anywhere, mainly on salt water.",
+            "MOH Hardness": "1.5",
+            "Melting Point": "801\u00b0C (1473\u00b0F)",
+            "Solubility": "Soluble",
+            "Link": "https://www.shinseina.world/post/almyr%C3%B3s",
+            "Additional Notes": "* White alm: Normal kitchen salt.\n* Blue alm: Bittersweet taste, good for people with cardiac problems (almost non-lethal for races with salt weaknesses).\n* Pink alm: Second most bitter, excellent for meat, but excess can cause cardiac and skin problems (lethal for races with salt weaknesses).\n* Orange alm: Bitter spicy taste, adequate for sauces, can be freely consumed (non-lethal for races with salt weaknesses).\n* Green alm: Sour taste, good with salads/vegetables. Excess can cause diarrhea/stomach aches (lethal for  salt-weak races, non-lethal for powerful ones).\n* Red alm: Most bitter, ordinary people throw up after tasting less than a gram. Can be poisonous in alchemist's hands (extremely lethal for all salt-weak races)."
+        },
+        {
+            "name": "Pa\u00edazos",
+            "Use": "Contains chemical and magical properties allowing the discharge of electricity, either by physical pressure or mana contact, with intensity depending on pressure and mana. More commonly used in heavy machinery and jewelry.",
+            "Location": "Found in Majika forest.",
+            "MOH Hardness": "5",
+            "Melting Point": "130\u00b0C (266\u00b0F)",
+            "Solubility": "Not soluble",
+            "Link": "https://www.shinseina.world/post/pa%C3%ADazos",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Water Crystal",
+            "Use": "Useless aside from its ability to help cool the user that is holding it, being able to keep them cold.",
+            "Location": "Can be found underneath the ocean.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/water-crystal",
+            "Additional Notes": ""
+        },
+        {
+            "name": "Fire Crystal",
+            "Use": "Can trap heat inside of it and produce it in order to warm up the body of the user. Mostly used for simply warming a person's body when needed.",
+            "Location": "Can be found in the desert or around hot areas.",
+            "MOH Hardness": "1",
+            "Melting Point": "N/A",
+            "Solubility": "N/A",
+            "Link": "https://www.shinseina.world/post/fire-crystal",
+            "Additional Notes": ""
+        }
+    ]
+}
