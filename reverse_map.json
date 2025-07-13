@@ -1,5 +1,5 @@
 {
-  "flora": [
+  "category:flora": [
     0,
     1,
     2,
@@ -136,7 +136,7 @@
     133,
     134
   ],
-  "mythical": [
+  "rarity:mythical": [
     0,
     1,
     2,
@@ -145,7 +145,7 @@
     5,
     6
   ],
-  "forest": [
+  "region:forest": [
     0,
     1,
     2,
@@ -232,14 +232,14 @@
     295,
     297
   ],
-  "unknown": [
+  "region:unknown": [
     3,
     52,
     63,
     122,
     142
   ],
-  "legendary": [
+  "rarity:legendary": [
     7,
     8,
     9,
@@ -360,31 +360,31 @@
     230,
     231
   ],
-  "volcano and firelands believed form where a large number phoenixes die over hundreds years no two flowers form same area": [
+  "region:volcano and firelands believed form where a large number phoenixes die over hundreds years no two flowers form same area": [
     12
   ],
-  "dragon realm": [
+  "region:dragon realm": [
     14
   ],
-  "grows exclusively graveyards tombs and crypts certain conditions": [
+  "region:grows exclusively graveyards tombs and crypts certain conditions": [
     22
   ],
-  "unknown grows randomly teleports a new place every few days": [
+  "region:unknown grows randomly teleports a new place every few days": [
     24
   ],
-  "grows special dark and bright places": [
+  "region:grows special dark and bright places": [
     25
   ],
-  "grows underground inside highly magically potent crystalline structures or rocks like magic geodes": [
+  "region:grows underground inside highly magically potent crystalline structures or rocks like magic geodes": [
     26
   ],
-  "none implied be very rare or specific certain conditions as region is none": [
+  "region:none implied be very rare or specific certain conditions as region is none": [
     27
   ],
-  "indigenous chusei only grows trees": [
+  "region:indigenous chusei only grows trees": [
     28
   ],
-  "rare": [
+  "rarity:rare": [
     29,
     30,
     31,
@@ -462,7 +462,7 @@
     264,
     265
   ],
-  "ocean": [
+  "region:ocean": [
     29,
     30,
     70,
@@ -483,7 +483,7 @@
     293,
     298
   ],
-  "desert": [
+  "region:desert": [
     37,
     54,
     66,
@@ -502,13 +502,13 @@
     264,
     299
   ],
-  "dark caves and crypts grows darkest and most shadowed parts": [
+  "region:dark caves and crypts grows darkest and most shadowed parts": [
     40
   ],
-  "underground caves and tunnels found where death has taken place": [
+  "region:underground caves and tunnels found where death has taken place": [
     41
   ],
-  "swamp": [
+  "region:swamp": [
     43,
     48,
     50,
@@ -529,13 +529,13 @@
     270,
     291
   ],
-  "various found areas with high animal activity": [
+  "region:various found areas with high animal activity": [
     44
   ],
-  "anywhere with a high amount mana takes thousands years absorb enough mana": [
+  "region:anywhere with a high amount mana takes thousands years absorb enough mana": [
     45
   ],
-  "mountain": [
+  "region:mountain": [
     46,
     56,
     57,
@@ -564,25 +564,25 @@
     285,
     288
   ],
-  "frozen tundra grows only coldest parts extremely difficult find and harvest": [
+  "region:frozen tundra grows only coldest parts extremely difficult find and harvest": [
     47
   ],
-  "cemeteries battlefields or areas where corpses are potent often grows underground or crawls through fields dead": [
+  "region:cemeteries battlefields or areas where corpses are potent often grows underground or crawls through fields dead": [
     49
   ],
-  "coastal": [
+  "region:coastal": [
     53
   ],
-  "rivers": [
+  "region:rivers": [
     55
   ],
-  "anywhere grows absolutely anywhere once a year": [
+  "region:anywhere grows absolutely anywhere once a year": [
     65
   ],
-  "corrupted land": [
+  "region:corrupted land": [
     68
   ],
-  "uncommon": [
+  "rarity:uncommon": [
     71,
     72,
     73,
@@ -644,37 +644,37 @@
     285,
     286
   ],
-  "lush caves shaded areas where moon shines": [
+  "region:lush caves shaded areas where moon shines": [
     74
   ],
-  "tropics": [
+  "region:tropics": [
     76
   ],
-  "plains grows vines areas with unstable mana": [
+  "region:plains grows vines areas with unstable mana": [
     77
   ],
-  "dark caves and damp waterways": [
+  "region:dark caves and damp waterways": [
     81
   ],
-  "lakes riverbeds often groups and spread along moderate or small bodies water": [
+  "region:lakes riverbeds often groups and spread along moderate or small bodies water": [
     82
   ],
-  "wetlands small bodies water": [
+  "region:wetlands small bodies water": [
     84
   ],
-  "wetlands nearby rivers grows under wet ground": [
+  "region:wetlands nearby rivers grows under wet ground": [
     86
   ],
-  "underground": [
+  "region:underground": [
     88
   ],
-  "dark places found growing dark and moist places requires complete darkness not easily grown": [
+  "region:dark places found growing dark and moist places requires complete darkness not easily grown": [
     95
   ],
-  "underground rare regionthis was written it never found outside its region uncommon overall common within its region": [
+  "region:underground rare regionthis was written it never found outside its region uncommon overall common within its region": [
     99
   ],
-  "common": [
+  "rarity:common": [
     110,
     111,
     112,
@@ -714,28 +714,28 @@
     298,
     299
   ],
-  "arid lands grows large patches": [
+  "region:arid lands grows large patches": [
     114
   ],
-  "shallow or murky bodies water grows under small or murky bodies water": [
+  "region:shallow or murky bodies water grows under small or murky bodies water": [
     115
   ],
-  "anywhere": [
+  "region:anywhere": [
     116
   ],
-  "any body water floats surface": [
+  "region:any body water floats surface": [
     118
   ],
-  "anywhere that can sustain growth plant life": [
+  "region:anywhere that can sustain growth plant life": [
     128
   ],
-  "temperate grassland": [
+  "region:temperate grassland": [
     131
   ],
-  "plains arid shrubland": [
+  "region:plains arid shrubland": [
     132
   ],
-  "mineral": [
+  "category:mineral": [
     135,
     136,
     137,
@@ -902,205 +902,205 @@
     298,
     299
   ],
-  "found very deep underwater": [
+  "region:found very deep underwater": [
     137
   ],
-  "found deep underground caves volcanic lands and lava pools": [
+  "region:found deep underground caves volcanic lands and lava pools": [
     138
   ],
-  "unknownvery rare": [
+  "region:unknownvery rare": [
     140
   ],
-  "found very deep beneath surface land": [
+  "region:found very deep beneath surface land": [
     141
   ],
-  "unknownlegendary": [
+  "region:unknownlegendary": [
     143
   ],
-  "found deep underground caves often water sources": [
+  "region:found deep underground caves often water sources": [
     144
   ],
-  "found very deep underground pitchblack manafilled places": [
+  "region:found very deep underground pitchblack manafilled places": [
     146
   ],
-  "found any place with abundant mana": [
+  "region:found any place with abundant mana": [
     148
   ],
-  "found dragon realm": [
+  "region:found dragon realm": [
     149
   ],
-  "anywhere formed when mana mixes into a storm and lightning strikes metallic substance incredibly rare": [
+  "region:anywhere formed when mana mixes into a storm and lightning strikes metallic substance incredibly rare": [
     151
   ],
-  "deep underground and deep seas": [
+  "region:deep underground and deep seas": [
     152
   ],
-  "can be found roaming caves tundra": [
+  "region:can be found roaming caves tundra": [
     158
   ],
-  "found shallow ground high peaks": [
+  "region:found shallow ground high peaks": [
     160
   ],
-  "commonly found within caves and underground areas often places filled with an abundance ambient mana": [
+  "region:commonly found within caves and underground areas often places filled with an abundance ambient mana": [
     163
   ],
-  "forms highaltitude regions during rare celestial events where mana converges with lunar rays": [
+  "region:forms highaltitude regions during rare celestial events where mana converges with lunar rays": [
     165,
     232
   ],
-  "found volcanic regions and barren land": [
+  "region:found volcanic regions and barren land": [
     167,
     234
   ],
-  "found underground mines deep caves and underwater": [
+  "region:found underground mines deep caves and underwater": [
     171,
     238
   ],
-  "found within caves and underground pathways close water": [
+  "region:found within caves and underground pathways close water": [
     173,
     240
   ],
-  "forms tundra when ice is left untouched areas where mana is abundant for many years": [
+  "region:forms tundra when ice is left untouched areas where mana is abundant for many years": [
     174,
     241
   ],
-  "naturally forms within ground volcanic land or areas where lava has flowed": [
+  "region:naturally forms within ground volcanic land or areas where lava has flowed": [
     175,
     242
   ],
-  "naturally forms within underground caves and tunnels cavities and rock formations created by cooling lava": [
+  "region:naturally forms within underground caves and tunnels cavities and rock formations created by cooling lava": [
     176,
     243
   ],
-  "found underground water sources such as underground waterways or lakes": [
+  "region:found underground water sources such as underground waterways or lakes": [
     178,
     245
   ],
-  "found caves tombs and other dark stagnant places": [
+  "region:found caves tombs and other dark stagnant places": [
     180,
     247
   ],
-  "forms caves and underground chambers where sound bounces repeatedly": [
+  "region:forms caves and underground chambers where sound bounces repeatedly": [
     181,
     248
   ],
-  "can only be found deepest parts earth specifically caverns and underground mines": [
+  "region:can only be found deepest parts earth specifically caverns and underground mines": [
     182,
     249
   ],
-  "forms caverns deep underground often underground water sources": [
+  "region:forms caverns deep underground often underground water sources": [
     183,
     250
   ],
-  "can be found waters dragon realm seas and water": [
+  "region:can be found waters dragon realm seas and water": [
     184,
     251
   ],
-  "found as main compositor crygons within crystal caves its true origins are a mystery": [
+  "region:found as main compositor crygons within crystal caves its true origins are a mystery": [
     189,
     257
   ],
-  "found crystal caves": [
+  "region:found crystal caves": [
     190,
     258
   ],
-  "found omnis regionareas with dense vegetation": [
+  "region:found omnis regionareas with dense vegetation": [
     191,
     259
   ],
-  "varies formed areas with lots blood such as great battles wars or slaughter": [
+  "region:varies formed areas with lots blood such as great battles wars or slaughter": [
     195,
     263
   ],
-  "underwater formed when mana is compressed sand or stone underwater over thousands years": [
+  "region:underwater formed when mana is compressed sand or stone underwater over thousands years": [
     197,
     265
   ],
-  "found caves dark areas and tundra": [
+  "region:found caves dark areas and tundra": [
     198,
     266
   ],
-  "forms volcanos when molten rocks absorb mana and crystallize": [
+  "region:forms volcanos when molten rocks absorb mana and crystallize": [
     201,
     269
   ],
-  "found formed tundras and cold biomes": [
+  "region:found formed tundras and cold biomes": [
     203,
     271
   ],
-  "found caves and underground dragon realm commonly growing backs spiders or other similar insects": [
+  "region:found caves and underground dragon realm commonly growing backs spiders or other similar insects": [
     204,
     272
   ],
-  "found within dragon realm more commonly growing shells aquatic or cavedwelling creatures": [
+  "region:found within dragon realm more commonly growing shells aquatic or cavedwelling creatures": [
     205,
     273
   ],
-  "found within caves and underground dragon realm often growing body beetles and insects": [
+  "region:found within caves and underground dragon realm often growing body beetles and insects": [
     206,
     274
   ],
-  "found within deep caves and underground veins": [
+  "region:found within deep caves and underground veins": [
     207,
     275
   ],
-  "commonly found deep underground within caves where light does not reach": [
+  "region:commonly found deep underground within caves where light does not reach": [
     209,
     277
   ],
-  "commonly found where bright lights are always present or where light is bright concentrations": [
+  "region:commonly found where bright lights are always present or where light is bright concentrations": [
     210,
     278
   ],
-  "found grassland plains below dirt and caves": [
+  "region:found grassland plains below dirt and caves": [
     211,
     279
   ],
-  "found monium unexplored caves": [
+  "region:found monium unexplored caves": [
     212,
     280
   ],
-  "forms areas with temperatures below specifically frozen tundra": [
+  "region:forms areas with temperatures below specifically frozen tundra": [
     213,
     281
   ],
-  "forms corrupted land shinseina when dead creature bones and materials compress beneath land": [
+  "region:forms corrupted land shinseina when dead creature bones and materials compress beneath land": [
     214,
     282
   ],
-  "can be found anywhere crystalline structures": [
+  "region:can be found anywhere crystalline structures": [
     215,
     283
   ],
-  "found underground varies": [
+  "region:found underground varies": [
     216,
     284
   ],
-  "found frozen tundra": [
+  "region:found frozen tundra": [
     218,
     286
   ],
-  "found underground caverns dark areas": [
+  "region:found underground caverns dark areas": [
     221,
     289
   ],
-  "forms compressed ash and soil regions where intense pressure natural disasters has altered land dry land": [
+  "region:forms compressed ash and soil regions where intense pressure natural disasters has altered land dry land": [
     222,
     290
   ],
-  "can be found commonly meadows grasslands": [
+  "region:can be found commonly meadows grasslands": [
     224,
     292
   ],
-  "can be found everywhere": [
+  "region:can be found everywhere": [
     226,
     294
   ],
-  "found anywhere mainly salt water": [
+  "region:found anywhere mainly salt water": [
     228,
     296
   ],
-  "varies found places with lots mana": [
+  "region:varies found places with lots mana": [
     255
   ]
 }

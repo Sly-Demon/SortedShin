@@ -1,9 +1,9 @@
+import os
 import re
 import json
 from collections import defaultdict
 from sentence_transformers import SentenceTransformer
 import faiss
-import numpy as np
 
 rank_map = {"d": 1, "c": 2, "b": 3, "a": 4, "s": 5, "common": 6, "uncommon": 7, "rare": 8, "rare+": 9, "legendary": 8,
             "legendary+": 9, "mythical": 10, "ex": 11}
@@ -14,12 +14,24 @@ reverse_map = defaultdict(list)
 SKIP_KEYS = {"id", "name"}
 JUNK_VALUES = {"n/a", "unknown", "none", "", "?"}
 embedskip = {"id", "name", "region", "rank_value", "category"}
+SIMILAR_REGIONS = {
+    "forest": {"woods", "rainforest", "grove"},
+    "desert": {"dunes", "wasteland"},
+    "mountain": {"peak", "volcano", "plateau"},
+}
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# Load model only if needed
+model = None
+embedding_required = not all(os.path.exists(f) for f in [
+    "texts_to_embed.json", "shin_vector.index", "index_metadata_map.json"
+])
 
+if embedding_required:
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# Load input data
 with open("flora_final_clean.json", "r", encoding="utf-8") as f:
     flora_data = json.load(f)
-
 with open("minerals_final_clean.json", "r", encoding="utf-8") as f:
     mineral_data = json.load(f)
 
@@ -46,6 +58,10 @@ def simplify_region(val):
     if "ocean" in val or "reef" in val: return "ocean"
     return val
 
+def clean_value(val):
+    val = str(val).strip().lower()
+    return None if val in JUNK_VALUES else val
+
 def metadata_sorter(data_dict, category):
     global id_counter
     for rarity, entries in data_dict.items():
@@ -71,38 +87,41 @@ def metadata_sorter(data_dict, category):
             print(f"✅ [{id_counter}] {metadata['name']}")
             id_counter += 1
 
-def clean_value(val):
-    val = str(val).strip().lower()
-    return None if val in JUNK_VALUES else val
-
 if __name__ == "__main__":
+    # Always process and create filter/reverse maps
     metadata_sorter(flora_data, "flora")
     metadata_sorter(mineral_data, "mineral")
 
-    # Save JSON data
-    with open("texts_to_embed.json", "w", encoding="utf-8") as f:
-        json.dump(texts_to_embed, f, ensure_ascii=False, indent=2)
-    with open("metadata_list.json", "w", encoding="utf-8") as f:
-        json.dump(metadata_list, f, ensure_ascii=False, indent=2)
+    if not os.path.exists("metadata_list.json"):
+        with open("metadata_list.json", "w", encoding="utf-8") as f:
+            json.dump(metadata_list, f, ensure_ascii=False, indent=2)
 
+    # Filter map
     filter_map = {m["id"]: (m["rarity"], m["category"], m["region"]) for m in metadata_list}
+    if not os.path.exists("filter_map.json"):
+        with open("filter_map.json", "w", encoding="utf-8") as f:
+            json.dump(filter_map, f, ensure_ascii=False, indent=2)
+
+    # Reverse map (expanded format)
     for m in metadata_list:
         for key in ["category", "rarity", "region", "rank"]:
             val = m.get(key)
             if val:
-                reverse_map[val].append(m["id"])
+                reverse_map[f"{key}:{val}"].append(m["id"])
+    if not os.path.exists("reverse_map.json"):
+        with open("reverse_map.json", "w", encoding="utf-8") as f:
+            json.dump(dict(reverse_map), f, ensure_ascii=False, indent=2)
 
-    with open("filter_map.json", "w", encoding="utf-8") as f:
-        json.dump(filter_map, f, ensure_ascii=False, indent=2)
-    with open("reverse_map.json", "w", encoding="utf-8") as f:
-        json.dump(dict(reverse_map), f, ensure_ascii=False, indent=2)
+    # Embeddings + index (slow!)
+    if embedding_required:
+        with open("texts_to_embed.json", "w", encoding="utf-8") as f:
+            json.dump(texts_to_embed, f, ensure_ascii=False, indent=2)
 
-    # Embedding and FAISS
-    embeddings = model.encode(texts_to_embed, show_progress_bar=True, convert_to_numpy=True)
-    dimension = embeddings.shape[1]
-    index = faiss.IndexFlatL2(dimension)
-    index.add(embeddings)
+        embeddings = model.encode(texts_to_embed, show_progress_bar=True, convert_to_numpy=True)
+        dimension = embeddings.shape[1]
+        index = faiss.IndexFlatL2(dimension)
+        index.add(embeddings)
 
-    faiss.write_index(index, "shin_vector.index")
-    with open("index_metadata_map.json", "w", encoding="utf-8") as f:
-        json.dump(metadata_list, f, ensure_ascii=False, indent=2)
+        faiss.write_index(index, "shin_vector.index")
+        with open("index_metadata_map.json", "w", encoding="utf-8") as f:
+            json.dump(metadata_list, f, ensure_ascii=False, indent=2)
