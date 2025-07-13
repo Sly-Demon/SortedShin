@@ -18,7 +18,7 @@ def pull_from_github():
 
     try:
         print(f"📁 Repo directory: {REPO_DIR}")
-        subprocess.run(["git", "pull", "origin", "master"], cwd=REPO_DIR, check=True)
+        subprocess.run(["git", "pull", "origin", "main"], cwd=REPO_DIR, check=True)
         print("✅ Pull successful.")
     except subprocess.CalledProcessError as e:
         print(f"❌ Git pull failed: {e}")
