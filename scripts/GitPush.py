@@ -13,7 +13,7 @@ else:
     commands = [
         ["git", "add", "--all"],  # Tracks deletions + additions
         ["git", "commit", "-m", commit_msg],
-        ["git", "push"]
+        ["git", "push", "force"]
     ]
 
     for cmd in commands:
