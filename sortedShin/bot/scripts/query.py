@@ -2,7 +2,7 @@ import re
 import json
 import faiss
 from sentence_transformers import SentenceTransformer
-from fragment_parser import detect_fragments
+from sortedShin.bot.scripts.fragment_parser import detect_fragments
 
 valid_regions = set()
 valid_rarities = set()
