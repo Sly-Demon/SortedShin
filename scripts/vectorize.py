@@ -30,9 +30,9 @@ if embedding_required:
     model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load input data
-with open("flora_final_clean.json", "r", encoding="utf-8") as f:
+with open("../sortedShin/misc data/flora_final_clean.json", "r", encoding="utf-8") as f:
     flora_data = json.load(f)
-with open("minerals_final_clean.json", "r", encoding="utf-8") as f:
+with open("../sortedShin/misc data/minerals_final_clean.json", "r", encoding="utf-8") as f:
     mineral_data = json.load(f)
 
 def normalize_location(loc):
@@ -92,14 +92,14 @@ if __name__ == "__main__":
     metadata_sorter(flora_data, "flora")
     metadata_sorter(mineral_data, "mineral")
 
-    if not os.path.exists("metadata_list.json"):
-        with open("metadata_list.json", "w", encoding="utf-8") as f:
+    if not os.path.exists("../sortedShin/bot/scripts/metadata_list.json"):
+        with open("../sortedShin/bot/scripts/metadata_list.json", "w", encoding="utf-8") as f:
             json.dump(metadata_list, f, ensure_ascii=False, indent=2)
 
     # Filter map
     filter_map = {m["id"]: (m["rarity"], m["category"], m["region"]) for m in metadata_list}
-    if not os.path.exists("filter_map.json"):
-        with open("filter_map.json", "w", encoding="utf-8") as f:
+    if not os.path.exists("../sortedShin/bot/scripts/filter_map.json"):
+        with open("../sortedShin/bot/scripts/filter_map.json", "w", encoding="utf-8") as f:
             json.dump(filter_map, f, ensure_ascii=False, indent=2)
 
     # Reverse map (expanded format)
@@ -108,13 +108,13 @@ if __name__ == "__main__":
             val = m.get(key)
             if val:
                 reverse_map[f"{key}:{val}"].append(m["id"])
-    if not os.path.exists("reverse_map.json"):
-        with open("reverse_map.json", "w", encoding="utf-8") as f:
+    if not os.path.exists("../sortedShin/bot/scripts/reverse_map.json"):
+        with open("../sortedShin/bot/scripts/reverse_map.json", "w", encoding="utf-8") as f:
             json.dump(dict(reverse_map), f, ensure_ascii=False, indent=2)
 
     # Embeddings + index (slow!)
     if embedding_required:
-        with open("texts_to_embed.json", "w", encoding="utf-8") as f:
+        with open("../sortedShin/misc data/texts_to_embed.json", "w", encoding="utf-8") as f:
             json.dump(texts_to_embed, f, ensure_ascii=False, indent=2)
 
         embeddings = model.encode(texts_to_embed, show_progress_bar=True, convert_to_numpy=True)
@@ -123,5 +123,5 @@ if __name__ == "__main__":
         index.add(embeddings)
 
         faiss.write_index(index, "shin_vector.index")
-        with open("index_metadata_map.json", "w", encoding="utf-8") as f:
+        with open("../sortedShin/bot/scripts/index_metadata_map.json", "w", encoding="utf-8") as f:
             json.dump(metadata_list, f, ensure_ascii=False, indent=2)

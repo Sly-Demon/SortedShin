@@ -1,0 +1,3 @@
+data added: flora, minerals
+data to add in future: fauna, spells, runes
+possible additions: races

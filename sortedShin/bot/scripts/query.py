@@ -2,12 +2,13 @@ import re
 import json
 import faiss
 from sentence_transformers import SentenceTransformer
+from fragment_parser import detect_fragments
 
 valid_regions = set()
 valid_rarities = set()
 category_keywords = {
-    "flora": {"flora", "plant", "tree", "flower", "bush", "vine"},
-    "mineral": {"mineral", "ore", "rock", "crystal", "stone", "gem"}
+    "flora": {"flora", "floras", "plants", "plant", "tree", "flowers", "flower", "bush", "vine"},
+    "mineral": {"mineral", "ore", "rock", "crystal", "stone", "gem", "material"}
 }
 
 # Load index
@@ -21,6 +22,7 @@ with open("index_metadata_map.json", "r", encoding="utf-8") as f:
 with open("reverse_map.json", "r", encoding="utf-8") as f:
     reverse_map = json.load(f)
 
+# load map
 with open("filter_map.json", "r", encoding="utf-8") as f:
     filter_map = json.load(f)
 
@@ -33,14 +35,20 @@ for key in reverse_map:
 # Load model
 model = SentenceTransformer("all-MiniLM-L6-v2")  # Make sure this matches what you used during creation
 
-
 def prompt_query():
     return input("Enter your search query: ").strip()
 
-
 def prompt_exit():
-    return input("Type 'quit' to exit or press Enter to continue: ").lower().strip() == "quit"
+    return input("Type 'quit' to quit or press Enter to continue: ").lower().strip() == "quit"
 
+def extract_fragments(query: str):
+    query = query.lower().strip()
+    dividers = ['when', 'if', 'that', 'which', 'who', 'and', 'but', 'or', 'because', 'so']
+    for divider in dividers:
+        query = query.replace(f" {divider} ", f" || {divider} ")
+    raw_fragments = re.split(r'\|\||,|\.', query)
+    fragments = [frag.strip() for frag in raw_fragments if frag.strip()]
+    return fragments
 
 def clean_semantic_query(query, filters):
     stripped_query = query.lower()
@@ -48,29 +56,62 @@ def clean_semantic_query(query, filters):
         stripped_query = stripped_query.replace(val.lower(), "")
     stripped_query = re.sub(r"\ball\b|\b\d+\b", "", stripped_query)
     return stripped_query.strip() or query
+def query(query = None):
+
+    if query is None:
+        query = prompt_query()
+
+    if not query:
+        print("No query entered. Try again.\n")
+        return
+
+    result_limit = extract_result_limit(query)
+    filters = extract_filters_from_query(query, valid_regions, valid_rarities, category_keywords)
+    semantic_part = clean_semantic_query(query, filters)
+    if not semantic_part.strip():
+        semantic_part = query.strip()
+
+    fragments = detect_fragments(semantic_part)
+
+    all_results = []
+
+    for fragment in fragments if fragments else [semantic_part]:
+        results = search_index(fragment, top_k=result_limit, filters=filters)
+        all_results.extend(results)
+    # merge results
+    merged = {}
+    for result in all_results:
+        rid = result["id"]
+        if rid in merged:
+            merged[rid]["score"] += result["score"]
+            merged[rid]["count"] += 1
+        else:
+            result["count"] = 1
+            merged[rid] = result
+
+    final_results = list(merged.values())
+    for r in final_results:
+        r["score"] /= r["count"]  # average it
+
+    final_results.sort(key=lambda r: r["score"])  # sort best to worst
+
+    if result_limit:
+        final_results = final_results[:result_limit]
+    return final_results
 
 
 def handle_query_cycle():
     while True:
-        query = prompt_query()
-        if not query:
-            print("❌ No query entered. Try again.\n")
-            continue
+        final_results = query()
 
-        result_limit = extract_result_limit(query)
-        filters = extract_filters_from_query(query, valid_regions, valid_rarities, category_keywords)
-        semantic_part = clean_semantic_query(query, filters)
-
-        results = search_index(semantic_part, top_k=result_limit, filters=filters)
-
-        print("\n--- Top Results ---")
-        if results:
-            for r in results:
-                print(
-                    f"[{r['id']:>4}] {r['name']:<30} ({r['category']}, {r['rarity']}, {r['region']}) | Score: {r['score']:.2f}")
-
-        else:
-            print("⚠️ No results found.")
+        if __name__ == "__main__":
+            print("\n--- Top Results ---")
+            if final_results:
+                for r in final_results:
+                    print(
+                        f"[{r['id']:>4}] {r['name']:<30} ({r['category']}, {r['rarity']}, {r['region']}) | Score: {r['score']:.2f}")
+            else:
+                print("No results found.")
 
         if prompt_exit():
             break
@@ -79,12 +120,13 @@ def handle_query_cycle():
 def extract_result_limit(query):
     q = query.lower()
     if "all " in q or "all" == q.strip():
-        return None  # special case: return everything that matches
+        return None
     match = re.search(r"\b(\d+)\b", q)
     if match:
         return int(match.group(1))
-    return 5  # default
-
+    if "the" in q.lower() or "the" == q.strip:
+        return 1
+    return 5
 
 def get_filtered_ids(filters):
     id_sets = []
@@ -93,21 +135,16 @@ def get_filtered_ids(filters):
         ids = reverse_map.get(key, [])
         id_sets.append(set(ids))
         if key not in reverse_map:
-            print(f"⚠️ Filter key not found: {key}")
+            print(f"Filter key not found: {key}")
 
     if not id_sets:
-        return None  # No filter applied = search full index
-
-    # Intersection of all filter sets
+        return None
     return set.intersection(*id_sets)
-
 
 def extract_filters_from_query(query, valid_regions, valid_rarities, category_keywords):
     filters = {}
-
     q = query.lower()
 
-    # Category detection
     for keyword in category_keywords["flora"]:
         if keyword in q:
             filters["category"] = "flora"
@@ -117,13 +154,11 @@ def extract_filters_from_query(query, valid_regions, valid_rarities, category_ke
             filters["category"] = "mineral"
             break
 
-    # Rarity detection
     for rarity in valid_rarities:
         if rarity in q:
             filters["rarity"] = rarity
             break
 
-    # Region detection
     for region in valid_regions:
         if re.search(rf"\b{re.escape(region)}\b", q):
             filters["region"] = region
@@ -131,11 +166,16 @@ def extract_filters_from_query(query, valid_regions, valid_rarities, category_ke
 
     return filters
 
-
 def search_index(query, top_k=5, filters=None):
-    query_embedding = model.encode([query], convert_to_numpy=True)
+    if not query.strip():
+        return []
 
-    # Search a wider net to allow post-filtering
+    try:
+        query_embedding = model.encode([query], convert_to_numpy=True)
+    except Exception as e:
+        print(f" Error encoding query: {query} → {e}")
+        return []
+
     distances, indices = index.search(query_embedding, 100)
 
     allowed_ids = get_filtered_ids(filters or {})
@@ -152,14 +192,14 @@ def search_index(query, top_k=5, filters=None):
             "category": entry.get("category", "???"),
             "rarity": entry.get("rarity", "???"),
             "region": entry.get("region", "???"),
-            "score": float(score)
+            "score": float(score),
+            "link": entry.get("Link", None)
         })
 
         if top_k and len(results) >= top_k:
             break
 
     return results
-
 
 if __name__ == "__main__":
     handle_query_cycle()
